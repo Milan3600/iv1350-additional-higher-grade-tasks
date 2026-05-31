@@ -1,0 +1,14 @@
+se\kth\iv1350\bikerepair\model\DiagnosticTaskTest.class
+se\kth\iv1350\bikerepair\view\ViewTest.class
+se\kth\iv1350\bikerepair\integration\PrinterTest.class
+se\kth\iv1350\bikerepair\integration\RepairOrderRegistryTest.class
+se\kth\iv1350\bikerepair\startup\MainTest.class
+se\kth\iv1350\bikerepair\model\AmountTest.class
+se\kth\iv1350\bikerepair\model\DiagnosticReportTest.class
+se\kth\iv1350\bikerepair\integration\CustomerRegistryTest.class
+se\kth\iv1350\bikerepair\model\RepairOrderTest.class
+se\kth\iv1350\bikerepair\model\ReceiptTest.class
+se\kth\iv1350\bikerepair\model\RepairTaskTest.class
+se\kth\iv1350\bikerepair\controller\ControllerTest.class
+se\kth\iv1350\bikerepair\view\ErrorMessageHandlerTest.class
+se\kth\iv1350\bikerepair\view\RepairOrderViewTest.class

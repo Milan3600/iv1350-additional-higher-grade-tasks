@@ -1,0 +1,2412 @@
+Repair order updated:
+Repair Order ID: 0
+State: NEWLY_CREATED
+Customer: 
+name: John, 
+email: john123@gmail.com, 
+phone number: 072123456, 
+bike details: brand: xTreme, model: W40, serial number: ABC123
+Problem: Faulty gear shifter
+Created: 2026-05-18T21:14:35.340529100
+Estimated completion: 2026-05-25T21:14:35.340529100
+Diagnostic report:
+Diagnostic report created: 2026-05-18T21:14:35.343533100
+Diagnostic Tasks: 
+Name: Basic Tune-up| Description: Inspection of gears, brakes, chains, tires. Includes adjusments and lubrication| Cost: 45.0 EUR| Result: PASSED
+Name: Wheel truing| Description: Checks wheels for wobble and adjusts spoke tension.| Cost: 13.0 EUR| Result: AWAITING_TECHNICIAN
+Repair tasks:
+Total cost: 
+
+----------------------
+Repair order updated:
+Repair Order ID: 0
+State: NEWLY_CREATED
+Customer: 
+name: John, 
+email: john123@gmail.com, 
+phone number: 072123456, 
+bike details: brand: xTreme, model: W40, serial number: ABC123
+Problem: Faulty gear shifter
+Created: 2026-05-18T21:14:35.340529100
+Estimated completion: 2026-05-25T21:14:35.340529100
+Diagnostic report:
+Diagnostic report created: 2026-05-18T21:14:35.343533100
+Diagnostic Tasks: 
+Name: Basic Tune-up| Description: Inspection of gears, brakes, chains, tires. Includes adjusments and lubrication| Cost: 45.0 EUR| Result: PASSED
+Name: Wheel truing| Description: Checks wheels for wobble and adjusts spoke tension.| Cost: 13.0 EUR| Result: PASSED
+Repair tasks:
+Total cost: 
+
+----------------------
+Repair order updated:
+Repair Order ID: 0
+State: READY_FOR_APPROVAL
+Customer: 
+name: John, 
+email: john123@gmail.com, 
+phone number: 072123456, 
+bike details: brand: xTreme, model: W40, serial number: ABC123
+Problem: Faulty gear shifter
+Created: 2026-05-18T21:14:35.340529100
+Estimated completion: 2026-05-25T21:14:35.340529100
+Diagnostic report:
+Diagnostic report created: 2026-05-18T21:14:35.343533100
+Diagnostic Tasks: 
+Name: Basic Tune-up| Description: Inspection of gears, brakes, chains, tires. Includes adjusments and lubrication| Cost: 45.0 EUR| Result: PASSED
+Name: Wheel truing| Description: Checks wheels for wobble and adjusts spoke tension.| Cost: 13.0 EUR| Result: PASSED
+Repair tasks:
+Name: Fix gear shifter, Description: Replace worn components and adjust gear indexing, Cost: 28.0 EUR, State: INCOMPLETE
+Total cost: 86.0 EUR
+
+----------------------
+Repair order updated:
+Repair Order ID: 0
+State: ACCEPTED
+Customer: 
+name: John, 
+email: john123@gmail.com, 
+phone number: 072123456, 
+bike details: brand: xTreme, model: W40, serial number: ABC123
+Problem: Faulty gear shifter
+Created: 2026-05-18T21:14:35.340529100
+Estimated completion: 2026-05-25T21:14:35.340529100
+Diagnostic report:
+Diagnostic report created: 2026-05-18T21:14:35.343533100
+Diagnostic Tasks: 
+Name: Basic Tune-up| Description: Inspection of gears, brakes, chains, tires. Includes adjusments and lubrication| Cost: 45.0 EUR| Result: PASSED
+Name: Wheel truing| Description: Checks wheels for wobble and adjusts spoke tension.| Cost: 13.0 EUR| Result: PASSED
+Repair tasks:
+Name: Fix gear shifter, Description: Replace worn components and adjust gear indexing, Cost: 28.0 EUR, State: INCOMPLETE
+Total cost: 86.0 EUR
+
+----------------------
+Repair order updated:
+Repair Order ID: 1
+State: NEWLY_CREATED
+Customer: 
+name: John, 
+email: john123@gmail.com, 
+phone number: 072123456, 
+bike details: brand: xTreme, model: W40, serial number: ABC123
+Problem: Faulty gear shifter
+Created: 2026-05-18T21:14:35.382280300
+Estimated completion: 2026-05-25T21:14:35.382280300
+Diagnostic report:
+Diagnostic report created: 2026-05-18T21:14:35.382280300
+Diagnostic Tasks: 
+Name: Basic Tune-up| Description: Inspection of gears, brakes, chains, tires. Includes adjusments and lubrication| Cost: 45.0 EUR| Result: PASSED
+Name: Wheel truing| Description: Checks wheels for wobble and adjusts spoke tension.| Cost: 13.0 EUR| Result: AWAITING_TECHNICIAN
+Repair tasks:
+Total cost: 
+
+----------------------
+Repair order updated:
+Repair Order ID: 1
+State: NEWLY_CREATED
+Customer: 
+name: John, 
+email: john123@gmail.com, 
+phone number: 072123456, 
+bike details: brand: xTreme, model: W40, serial number: ABC123
+Problem: Faulty gear shifter
+Created: 2026-05-18T21:14:35.382280300
+Estimated completion: 2026-05-25T21:14:35.382280300
+Diagnostic report:
+Diagnostic report created: 2026-05-18T21:14:35.382280300
+Diagnostic Tasks: 
+Name: Basic Tune-up| Description: Inspection of gears, brakes, chains, tires. Includes adjusments and lubrication| Cost: 45.0 EUR| Result: PASSED
+Name: Wheel truing| Description: Checks wheels for wobble and adjusts spoke tension.| Cost: 13.0 EUR| Result: PASSED
+Repair tasks:
+Total cost: 
+
+----------------------
+Repair order updated:
+Repair Order ID: 2
+State: NEWLY_CREATED
+Customer: 
+name: John, 
+email: john123@gmail.com, 
+phone number: 072123456, 
+bike details: brand: xTreme, model: W40, serial number: ABC123
+Problem: Faulty gear shifter
+Created: 2026-05-18T21:14:35.404797500
+Estimated completion: 2026-05-25T21:14:35.404797500
+Diagnostic report:
+Diagnostic report created: 2026-05-18T21:14:35.404797500
+Diagnostic Tasks: 
+Name: Basic Tune-up| Description: Inspection of gears, brakes, chains, tires. Includes adjusments and lubrication| Cost: 45.0 EUR| Result: PASSED
+Name: Wheel truing| Description: Checks wheels for wobble and adjusts spoke tension.| Cost: 13.0 EUR| Result: AWAITING_TECHNICIAN
+Repair tasks:
+Total cost: 
+
+----------------------
+Repair order updated:
+Repair Order ID: 2
+State: NEWLY_CREATED
+Customer: 
+name: John, 
+email: john123@gmail.com, 
+phone number: 072123456, 
+bike details: brand: xTreme, model: W40, serial number: ABC123
+Problem: Faulty gear shifter
+Created: 2026-05-18T21:14:35.404797500
+Estimated completion: 2026-05-25T21:14:35.404797500
+Diagnostic report:
+Diagnostic report created: 2026-05-18T21:14:35.404797500
+Diagnostic Tasks: 
+Name: Basic Tune-up| Description: Inspection of gears, brakes, chains, tires. Includes adjusments and lubrication| Cost: 45.0 EUR| Result: PASSED
+Name: Wheel truing| Description: Checks wheels for wobble and adjusts spoke tension.| Cost: 13.0 EUR| Result: PASSED
+Repair tasks:
+Total cost: 
+
+----------------------
+Repair order updated:
+Repair Order ID: 0
+State: NEWLY_CREATED
+Customer: 
+name: John, 
+email: john123@gmail.com, 
+phone number: 072123456, 
+bike details: brand: xTreme, model: W40, serial number: ABC123
+Problem: Faulty gear shifter
+Created: 2026-05-18T21:18:49.106974700
+Estimated completion: 2026-05-25T21:18:49.106974700
+Diagnostic report:
+Diagnostic report created: 2026-05-18T21:18:49.108976300
+Diagnostic Tasks: 
+Name: Basic Tune-up| Description: Inspection of gears, brakes, chains, tires. Includes adjusments and lubrication| Cost: 45.0 EUR| Result: PASSED
+Name: Wheel truing| Description: Checks wheels for wobble and adjusts spoke tension.| Cost: 13.0 EUR| Result: AWAITING_TECHNICIAN
+Repair tasks:
+Total cost: 
+
+----------------------
+Repair order updated:
+Repair Order ID: 0
+State: NEWLY_CREATED
+Customer: 
+name: John, 
+email: john123@gmail.com, 
+phone number: 072123456, 
+bike details: brand: xTreme, model: W40, serial number: ABC123
+Problem: Faulty gear shifter
+Created: 2026-05-18T21:18:49.106974700
+Estimated completion: 2026-05-25T21:18:49.106974700
+Diagnostic report:
+Diagnostic report created: 2026-05-18T21:18:49.108976300
+Diagnostic Tasks: 
+Name: Basic Tune-up| Description: Inspection of gears, brakes, chains, tires. Includes adjusments and lubrication| Cost: 45.0 EUR| Result: PASSED
+Name: Wheel truing| Description: Checks wheels for wobble and adjusts spoke tension.| Cost: 13.0 EUR| Result: PASSED
+Repair tasks:
+Total cost: 
+
+----------------------
+Repair order updated:
+Repair Order ID: 0
+State: READY_FOR_APPROVAL
+Customer: 
+name: John, 
+email: john123@gmail.com, 
+phone number: 072123456, 
+bike details: brand: xTreme, model: W40, serial number: ABC123
+Problem: Faulty gear shifter
+Created: 2026-05-18T21:18:49.106974700
+Estimated completion: 2026-05-25T21:18:49.106974700
+Diagnostic report:
+Diagnostic report created: 2026-05-18T21:18:49.108976300
+Diagnostic Tasks: 
+Name: Basic Tune-up| Description: Inspection of gears, brakes, chains, tires. Includes adjusments and lubrication| Cost: 45.0 EUR| Result: PASSED
+Name: Wheel truing| Description: Checks wheels for wobble and adjusts spoke tension.| Cost: 13.0 EUR| Result: PASSED
+Repair tasks:
+Name: Fix gear shifter, Description: Replace worn components and adjust gear indexing, Cost: 28.0 EUR, State: INCOMPLETE
+Total cost: 86.0 EUR
+
+----------------------
+Repair order updated:
+Repair Order ID: 0
+State: ACCEPTED
+Customer: 
+name: John, 
+email: john123@gmail.com, 
+phone number: 072123456, 
+bike details: brand: xTreme, model: W40, serial number: ABC123
+Problem: Faulty gear shifter
+Created: 2026-05-18T21:18:49.106974700
+Estimated completion: 2026-05-25T21:18:49.106974700
+Diagnostic report:
+Diagnostic report created: 2026-05-18T21:18:49.108976300
+Diagnostic Tasks: 
+Name: Basic Tune-up| Description: Inspection of gears, brakes, chains, tires. Includes adjusments and lubrication| Cost: 45.0 EUR| Result: PASSED
+Name: Wheel truing| Description: Checks wheels for wobble and adjusts spoke tension.| Cost: 13.0 EUR| Result: PASSED
+Repair tasks:
+Name: Fix gear shifter, Description: Replace worn components and adjust gear indexing, Cost: 28.0 EUR, State: INCOMPLETE
+Total cost: 86.0 EUR
+
+----------------------
+Repair order updated:
+Repair Order ID: 0
+State: NEWLY_CREATED
+Customer: 
+name: John, 
+email: john123@gmail.com, 
+phone number: 072123456, 
+bike details: brand: xTreme, model: W40, serial number: ABC123
+Problem: Faulty gear shifter
+Created: 2026-05-18T21:19:42.688552100
+Estimated completion: 2026-05-25T21:19:42.688552100
+Diagnostic report:
+Diagnostic report created: 2026-05-18T21:19:42.691552800
+Diagnostic Tasks: 
+Name: Basic Tune-up| Description: Inspection of gears, brakes, chains, tires. Includes adjusments and lubrication| Cost: 45.0 EUR| Result: PASSED
+Name: Wheel truing| Description: Checks wheels for wobble and adjusts spoke tension.| Cost: 13.0 EUR| Result: AWAITING_TECHNICIAN
+Repair tasks:
+Total cost: 
+
+----------------------
+Repair order updated:
+Repair Order ID: 0
+State: NEWLY_CREATED
+Customer: 
+name: John, 
+email: john123@gmail.com, 
+phone number: 072123456, 
+bike details: brand: xTreme, model: W40, serial number: ABC123
+Problem: Faulty gear shifter
+Created: 2026-05-18T21:19:42.688552100
+Estimated completion: 2026-05-25T21:19:42.688552100
+Diagnostic report:
+Diagnostic report created: 2026-05-18T21:19:42.691552800
+Diagnostic Tasks: 
+Name: Basic Tune-up| Description: Inspection of gears, brakes, chains, tires. Includes adjusments and lubrication| Cost: 45.0 EUR| Result: PASSED
+Name: Wheel truing| Description: Checks wheels for wobble and adjusts spoke tension.| Cost: 13.0 EUR| Result: PASSED
+Repair tasks:
+Total cost: 
+
+----------------------
+Repair order updated:
+Repair Order ID: 0
+State: READY_FOR_APPROVAL
+Customer: 
+name: John, 
+email: john123@gmail.com, 
+phone number: 072123456, 
+bike details: brand: xTreme, model: W40, serial number: ABC123
+Problem: Faulty gear shifter
+Created: 2026-05-18T21:19:42.688552100
+Estimated completion: 2026-05-25T21:19:42.688552100
+Diagnostic report:
+Diagnostic report created: 2026-05-18T21:19:42.691552800
+Diagnostic Tasks: 
+Name: Basic Tune-up| Description: Inspection of gears, brakes, chains, tires. Includes adjusments and lubrication| Cost: 45.0 EUR| Result: PASSED
+Name: Wheel truing| Description: Checks wheels for wobble and adjusts spoke tension.| Cost: 13.0 EUR| Result: PASSED
+Repair tasks:
+Name: Fix gear shifter, Description: Replace worn components and adjust gear indexing, Cost: 28.0 EUR, State: INCOMPLETE
+Total cost: 86.0 EUR
+
+----------------------
+Repair order updated:
+Repair Order ID: 0
+State: ACCEPTED
+Customer: 
+name: John, 
+email: john123@gmail.com, 
+phone number: 072123456, 
+bike details: brand: xTreme, model: W40, serial number: ABC123
+Problem: Faulty gear shifter
+Created: 2026-05-18T21:19:42.688552100
+Estimated completion: 2026-05-25T21:19:42.688552100
+Diagnostic report:
+Diagnostic report created: 2026-05-18T21:19:42.691552800
+Diagnostic Tasks: 
+Name: Basic Tune-up| Description: Inspection of gears, brakes, chains, tires. Includes adjusments and lubrication| Cost: 45.0 EUR| Result: PASSED
+Name: Wheel truing| Description: Checks wheels for wobble and adjusts spoke tension.| Cost: 13.0 EUR| Result: PASSED
+Repair tasks:
+Name: Fix gear shifter, Description: Replace worn components and adjust gear indexing, Cost: 28.0 EUR, State: INCOMPLETE
+Total cost: 86.0 EUR
+
+----------------------
+Repair order updated:
+Repair Order ID: 0
+State: ACCEPTED
+Customer: 
+name: John, 
+email: john123@gmail.com, 
+phone number: 072123456, 
+bike details: brand: xTreme, model: W40, serial number: ABC123
+Problem: Faulty gear shifter
+Created: 2026-05-18T21:19:42.688552100
+Estimated completion: 2026-05-25T21:19:42.688552100
+Diagnostic report:
+Diagnostic report created: 2026-05-18T21:19:42.691552800
+Diagnostic Tasks: 
+Name: Basic Tune-up| Description: Inspection of gears, brakes, chains, tires. Includes adjusments and lubrication| Cost: 45.0 EUR| Result: PASSED
+Name: Wheel truing| Description: Checks wheels for wobble and adjusts spoke tension.| Cost: 13.0 EUR| Result: PASSED
+Repair tasks:
+Name: Fix gear shifter, Description: Replace worn components and adjust gear indexing, Cost: 28.0 EUR, State: INCOMPLETE
+Total cost: 86.0 EUR
+
+----------------------
+Repair order updated:
+Repair Order ID: 0
+State: ACCEPTED
+Customer: 
+name: John, 
+email: john123@gmail.com, 
+phone number: 072123456, 
+bike details: brand: xTreme, model: W40, serial number: ABC123
+Problem: Faulty gear shifter
+Created: 2026-05-18T21:19:42.688552100
+Estimated completion: 2026-05-25T21:19:42.688552100
+Diagnostic report:
+Diagnostic report created: 2026-05-18T21:19:42.691552800
+Diagnostic Tasks: 
+Name: Basic Tune-up| Description: Inspection of gears, brakes, chains, tires. Includes adjusments and lubrication| Cost: 45.0 EUR| Result: PASSED
+Name: Wheel truing| Description: Checks wheels for wobble and adjusts spoke tension.| Cost: 13.0 EUR| Result: PASSED
+Repair tasks:
+Name: Fix gear shifter, Description: Replace worn components and adjust gear indexing, Cost: 28.0 EUR, State: INCOMPLETE
+Total cost: 86.0 EUR
+
+----------------------
+Repair order updated:
+Repair Order ID: 0
+State: READY_FOR_APPROVAL
+Customer: 
+name: John, 
+email: john123@gmail.com, 
+phone number: 072123456, 
+bike details: brand: xTreme, model: W40, serial number: ABC123
+Problem: Faulty gear shifter
+Created: 2026-05-18T21:19:42.688552100
+Estimated completion: 2026-05-25T21:19:42.688552100
+Diagnostic report:
+Diagnostic report created: 2026-05-18T21:19:42.691552800
+Diagnostic Tasks: 
+Name: Basic Tune-up| Description: Inspection of gears, brakes, chains, tires. Includes adjusments and lubrication| Cost: 45.0 EUR| Result: PASSED
+Name: Wheel truing| Description: Checks wheels for wobble and adjusts spoke tension.| Cost: 13.0 EUR| Result: PASSED
+Repair tasks:
+Name: Fix gear shifter, Description: Replace worn components and adjust gear indexing, Cost: 28.0 EUR, State: INCOMPLETE
+Name: Fix gear shifter, Description: Replace worn components and adjust gear indexing, Cost: 28.0 EUR, State: INCOMPLETE
+Total cost: 114.0 EUR
+
+----------------------
+Repair order updated:
+Repair Order ID: 0
+State: ACCEPTED
+Customer: 
+name: John, 
+email: john123@gmail.com, 
+phone number: 072123456, 
+bike details: brand: xTreme, model: W40, serial number: ABC123
+Problem: Faulty gear shifter
+Created: 2026-05-18T21:19:42.688552100
+Estimated completion: 2026-05-25T21:19:42.688552100
+Diagnostic report:
+Diagnostic report created: 2026-05-18T21:19:42.691552800
+Diagnostic Tasks: 
+Name: Basic Tune-up| Description: Inspection of gears, brakes, chains, tires. Includes adjusments and lubrication| Cost: 45.0 EUR| Result: PASSED
+Name: Wheel truing| Description: Checks wheels for wobble and adjusts spoke tension.| Cost: 13.0 EUR| Result: PASSED
+Repair tasks:
+Name: Fix gear shifter, Description: Replace worn components and adjust gear indexing, Cost: 28.0 EUR, State: INCOMPLETE
+Name: Fix gear shifter, Description: Replace worn components and adjust gear indexing, Cost: 28.0 EUR, State: INCOMPLETE
+Total cost: 114.0 EUR
+
+----------------------
+Repair order updated:
+Repair Order ID: 0
+State: ACCEPTED
+Customer: 
+name: John, 
+email: john123@gmail.com, 
+phone number: 072123456, 
+bike details: brand: xTreme, model: W40, serial number: ABC123
+Problem: Faulty gear shifter
+Created: 2026-05-18T21:19:42.688552100
+Estimated completion: 2026-05-25T21:19:42.688552100
+Diagnostic report:
+Diagnostic report created: 2026-05-18T21:19:42.691552800
+Diagnostic Tasks: 
+Name: Basic Tune-up| Description: Inspection of gears, brakes, chains, tires. Includes adjusments and lubrication| Cost: 45.0 EUR| Result: PASSED
+Name: Wheel truing| Description: Checks wheels for wobble and adjusts spoke tension.| Cost: 13.0 EUR| Result: PASSED
+Repair tasks:
+Name: Fix gear shifter, Description: Replace worn components and adjust gear indexing, Cost: 28.0 EUR, State: INCOMPLETE
+Name: Fix gear shifter, Description: Replace worn components and adjust gear indexing, Cost: 28.0 EUR, State: INCOMPLETE
+Total cost: 114.0 EUR
+
+----------------------
+Repair order updated:
+Repair Order ID: 0
+State: ACCEPTED
+Customer: 
+name: John, 
+email: john123@gmail.com, 
+phone number: 072123456, 
+bike details: brand: xTreme, model: W40, serial number: ABC123
+Problem: Faulty gear shifter
+Created: 2026-05-18T21:19:42.688552100
+Estimated completion: 2026-05-25T21:19:42.688552100
+Diagnostic report:
+Diagnostic report created: 2026-05-18T21:19:42.691552800
+Diagnostic Tasks: 
+Name: Basic Tune-up| Description: Inspection of gears, brakes, chains, tires. Includes adjusments and lubrication| Cost: 45.0 EUR| Result: PASSED
+Name: Wheel truing| Description: Checks wheels for wobble and adjusts spoke tension.| Cost: 13.0 EUR| Result: PASSED
+Repair tasks:
+Name: Fix gear shifter, Description: Replace worn components and adjust gear indexing, Cost: 28.0 EUR, State: INCOMPLETE
+Name: Fix gear shifter, Description: Replace worn components and adjust gear indexing, Cost: 28.0 EUR, State: INCOMPLETE
+Total cost: 114.0 EUR
+
+----------------------
+Repair order updated:
+Repair Order ID: 0
+State: READY_FOR_APPROVAL
+Customer: 
+name: John, 
+email: john123@gmail.com, 
+phone number: 072123456, 
+bike details: brand: xTreme, model: W40, serial number: ABC123
+Problem: Faulty gear shifter
+Created: 2026-05-18T21:19:42.688552100
+Estimated completion: 2026-05-25T21:19:42.688552100
+Diagnostic report:
+Diagnostic report created: 2026-05-18T21:19:42.691552800
+Diagnostic Tasks: 
+Name: Basic Tune-up| Description: Inspection of gears, brakes, chains, tires. Includes adjusments and lubrication| Cost: 45.0 EUR| Result: PASSED
+Name: Wheel truing| Description: Checks wheels for wobble and adjusts spoke tension.| Cost: 13.0 EUR| Result: PASSED
+Repair tasks:
+Name: Fix gear shifter, Description: Replace worn components and adjust gear indexing, Cost: 28.0 EUR, State: INCOMPLETE
+Name: Fix gear shifter, Description: Replace worn components and adjust gear indexing, Cost: 28.0 EUR, State: INCOMPLETE
+Name: Fix gear shifter, Description: Replace worn components and adjust gear indexing, Cost: 28.0 EUR, State: INCOMPLETE
+Total cost: 142.0 EUR
+
+----------------------
+Repair order updated:
+Repair Order ID: 0
+State: ACCEPTED
+Customer: 
+name: John, 
+email: john123@gmail.com, 
+phone number: 072123456, 
+bike details: brand: xTreme, model: W40, serial number: ABC123
+Problem: Faulty gear shifter
+Created: 2026-05-18T21:19:42.688552100
+Estimated completion: 2026-05-25T21:19:42.688552100
+Diagnostic report:
+Diagnostic report created: 2026-05-18T21:19:42.691552800
+Diagnostic Tasks: 
+Name: Basic Tune-up| Description: Inspection of gears, brakes, chains, tires. Includes adjusments and lubrication| Cost: 45.0 EUR| Result: PASSED
+Name: Wheel truing| Description: Checks wheels for wobble and adjusts spoke tension.| Cost: 13.0 EUR| Result: PASSED
+Repair tasks:
+Name: Fix gear shifter, Description: Replace worn components and adjust gear indexing, Cost: 28.0 EUR, State: INCOMPLETE
+Name: Fix gear shifter, Description: Replace worn components and adjust gear indexing, Cost: 28.0 EUR, State: INCOMPLETE
+Name: Fix gear shifter, Description: Replace worn components and adjust gear indexing, Cost: 28.0 EUR, State: INCOMPLETE
+Total cost: 142.0 EUR
+
+----------------------
+Repair order updated:
+Repair Order ID: 0
+State: NEWLY_CREATED
+Customer: 
+name: John, 
+email: john123@gmail.com, 
+phone number: 072123456, 
+bike details: brand: xTreme, model: W40, serial number: ABC123
+Problem: Faulty gear shifter
+Created: 2026-05-18T21:22:34.684849200
+Estimated completion: 2026-05-25T21:22:34.684849200
+Diagnostic report:
+Diagnostic report created: 2026-05-18T21:22:34.687849900
+Diagnostic Tasks: 
+Name: Basic Tune-up| Description: Inspection of gears, brakes, chains, tires. Includes adjusments and lubrication| Cost: 45.0 EUR| Result: PASSED
+Name: Wheel truing| Description: Checks wheels for wobble and adjusts spoke tension.| Cost: 13.0 EUR| Result: AWAITING_TECHNICIAN
+Repair tasks:
+Total cost: 
+
+----------------------
+Repair order updated:
+Repair Order ID: 0
+State: NEWLY_CREATED
+Customer: 
+name: John, 
+email: john123@gmail.com, 
+phone number: 072123456, 
+bike details: brand: xTreme, model: W40, serial number: ABC123
+Problem: Faulty gear shifter
+Created: 2026-05-18T21:22:34.684849200
+Estimated completion: 2026-05-25T21:22:34.684849200
+Diagnostic report:
+Diagnostic report created: 2026-05-18T21:22:34.687849900
+Diagnostic Tasks: 
+Name: Basic Tune-up| Description: Inspection of gears, brakes, chains, tires. Includes adjusments and lubrication| Cost: 45.0 EUR| Result: PASSED
+Name: Wheel truing| Description: Checks wheels for wobble and adjusts spoke tension.| Cost: 13.0 EUR| Result: PASSED
+Repair tasks:
+Total cost: 
+
+----------------------
+Repair order updated:
+Repair Order ID: 0
+State: READY_FOR_APPROVAL
+Customer: 
+name: John, 
+email: john123@gmail.com, 
+phone number: 072123456, 
+bike details: brand: xTreme, model: W40, serial number: ABC123
+Problem: Faulty gear shifter
+Created: 2026-05-18T21:22:34.684849200
+Estimated completion: 2026-05-25T21:22:34.684849200
+Diagnostic report:
+Diagnostic report created: 2026-05-18T21:22:34.687849900
+Diagnostic Tasks: 
+Name: Basic Tune-up| Description: Inspection of gears, brakes, chains, tires. Includes adjusments and lubrication| Cost: 45.0 EUR| Result: PASSED
+Name: Wheel truing| Description: Checks wheels for wobble and adjusts spoke tension.| Cost: 13.0 EUR| Result: PASSED
+Repair tasks:
+Name: Fix gear shifter, Description: Replace worn components and adjust gear indexing, Cost: 28.0 EUR, State: INCOMPLETE
+Total cost: 86.0 EUR
+
+----------------------
+Repair order updated:
+Repair Order ID: 0
+State: ACCEPTED
+Customer: 
+name: John, 
+email: john123@gmail.com, 
+phone number: 072123456, 
+bike details: brand: xTreme, model: W40, serial number: ABC123
+Problem: Faulty gear shifter
+Created: 2026-05-18T21:22:34.684849200
+Estimated completion: 2026-05-25T21:22:34.684849200
+Diagnostic report:
+Diagnostic report created: 2026-05-18T21:22:34.687849900
+Diagnostic Tasks: 
+Name: Basic Tune-up| Description: Inspection of gears, brakes, chains, tires. Includes adjusments and lubrication| Cost: 45.0 EUR| Result: PASSED
+Name: Wheel truing| Description: Checks wheels for wobble and adjusts spoke tension.| Cost: 13.0 EUR| Result: PASSED
+Repair tasks:
+Name: Fix gear shifter, Description: Replace worn components and adjust gear indexing, Cost: 28.0 EUR, State: INCOMPLETE
+Total cost: 86.0 EUR
+
+----------------------
+Repair order updated:
+Repair Order ID: 0
+State: NEWLY_CREATED
+Customer: 
+name: John, 
+email: john123@gmail.com, 
+phone number: 072123456, 
+bike details: brand: xTreme, model: W40, serial number: ABC123
+Problem: Faulty gear shifter
+Created: 2026-05-18T21:22:53.563762500
+Estimated completion: 2026-05-25T21:22:53.563762500
+Diagnostic report:
+Diagnostic report created: 2026-05-18T21:22:53.566761900
+Diagnostic Tasks: 
+Name: Basic Tune-up| Description: Inspection of gears, brakes, chains, tires. Includes adjusments and lubrication| Cost: 45.0 EUR| Result: PASSED
+Name: Wheel truing| Description: Checks wheels for wobble and adjusts spoke tension.| Cost: 13.0 EUR| Result: AWAITING_TECHNICIAN
+Repair tasks:
+Total cost: 
+
+----------------------
+Repair order updated:
+Repair Order ID: 0
+State: NEWLY_CREATED
+Customer: 
+name: John, 
+email: john123@gmail.com, 
+phone number: 072123456, 
+bike details: brand: xTreme, model: W40, serial number: ABC123
+Problem: Faulty gear shifter
+Created: 2026-05-18T21:22:53.563762500
+Estimated completion: 2026-05-25T21:22:53.563762500
+Diagnostic report:
+Diagnostic report created: 2026-05-18T21:22:53.566761900
+Diagnostic Tasks: 
+Name: Basic Tune-up| Description: Inspection of gears, brakes, chains, tires. Includes adjusments and lubrication| Cost: 45.0 EUR| Result: PASSED
+Name: Wheel truing| Description: Checks wheels for wobble and adjusts spoke tension.| Cost: 13.0 EUR| Result: PASSED
+Repair tasks:
+Total cost: 
+
+----------------------
+Repair order updated:
+Repair Order ID: 0
+State: READY_FOR_APPROVAL
+Customer: 
+name: John, 
+email: john123@gmail.com, 
+phone number: 072123456, 
+bike details: brand: xTreme, model: W40, serial number: ABC123
+Problem: Faulty gear shifter
+Created: 2026-05-18T21:22:53.563762500
+Estimated completion: 2026-05-25T21:22:53.563762500
+Diagnostic report:
+Diagnostic report created: 2026-05-18T21:22:53.566761900
+Diagnostic Tasks: 
+Name: Basic Tune-up| Description: Inspection of gears, brakes, chains, tires. Includes adjusments and lubrication| Cost: 45.0 EUR| Result: PASSED
+Name: Wheel truing| Description: Checks wheels for wobble and adjusts spoke tension.| Cost: 13.0 EUR| Result: PASSED
+Repair tasks:
+Name: Fix gear shifter, Description: Replace worn components and adjust gear indexing, Cost: 28.0 EUR, State: INCOMPLETE
+Total cost: 86.0 EUR
+
+----------------------
+Repair order updated:
+Repair Order ID: 0
+State: ACCEPTED
+Customer: 
+name: John, 
+email: john123@gmail.com, 
+phone number: 072123456, 
+bike details: brand: xTreme, model: W40, serial number: ABC123
+Problem: Faulty gear shifter
+Created: 2026-05-18T21:22:53.563762500
+Estimated completion: 2026-05-25T21:22:53.563762500
+Diagnostic report:
+Diagnostic report created: 2026-05-18T21:22:53.566761900
+Diagnostic Tasks: 
+Name: Basic Tune-up| Description: Inspection of gears, brakes, chains, tires. Includes adjusments and lubrication| Cost: 45.0 EUR| Result: PASSED
+Name: Wheel truing| Description: Checks wheels for wobble and adjusts spoke tension.| Cost: 13.0 EUR| Result: PASSED
+Repair tasks:
+Name: Fix gear shifter, Description: Replace worn components and adjust gear indexing, Cost: 28.0 EUR, State: INCOMPLETE
+Total cost: 86.0 EUR
+
+----------------------
+Repair order updated:
+Repair Order ID: 0
+State: ACCEPTED
+Customer: 
+name: John, 
+email: john123@gmail.com, 
+phone number: 072123456, 
+bike details: brand: xTreme, model: W40, serial number: ABC123
+Problem: Faulty gear shifter
+Created: 2026-05-18T21:22:53.563762500
+Estimated completion: 2026-05-25T21:22:53.563762500
+Diagnostic report:
+Diagnostic report created: 2026-05-18T21:22:53.566761900
+Diagnostic Tasks: 
+Name: Basic Tune-up| Description: Inspection of gears, brakes, chains, tires. Includes adjusments and lubrication| Cost: 45.0 EUR| Result: PASSED
+Name: Wheel truing| Description: Checks wheels for wobble and adjusts spoke tension.| Cost: 13.0 EUR| Result: PASSED
+Repair tasks:
+Name: Fix gear shifter, Description: Replace worn components and adjust gear indexing, Cost: 28.0 EUR, State: INCOMPLETE
+Total cost: 86.0 EUR
+
+----------------------
+Repair order updated:
+Repair Order ID: 0
+State: ACCEPTED
+Customer: 
+name: John, 
+email: john123@gmail.com, 
+phone number: 072123456, 
+bike details: brand: xTreme, model: W40, serial number: ABC123
+Problem: Faulty gear shifter
+Created: 2026-05-18T21:22:53.563762500
+Estimated completion: 2026-05-25T21:22:53.563762500
+Diagnostic report:
+Diagnostic report created: 2026-05-18T21:22:53.566761900
+Diagnostic Tasks: 
+Name: Basic Tune-up| Description: Inspection of gears, brakes, chains, tires. Includes adjusments and lubrication| Cost: 45.0 EUR| Result: PASSED
+Name: Wheel truing| Description: Checks wheels for wobble and adjusts spoke tension.| Cost: 13.0 EUR| Result: PASSED
+Repair tasks:
+Name: Fix gear shifter, Description: Replace worn components and adjust gear indexing, Cost: 28.0 EUR, State: INCOMPLETE
+Total cost: 86.0 EUR
+
+----------------------
+Repair order updated:
+Repair Order ID: 0
+State: READY_FOR_APPROVAL
+Customer: 
+name: John, 
+email: john123@gmail.com, 
+phone number: 072123456, 
+bike details: brand: xTreme, model: W40, serial number: ABC123
+Problem: Faulty gear shifter
+Created: 2026-05-18T21:22:53.563762500
+Estimated completion: 2026-05-25T21:22:53.563762500
+Diagnostic report:
+Diagnostic report created: 2026-05-18T21:22:53.566761900
+Diagnostic Tasks: 
+Name: Basic Tune-up| Description: Inspection of gears, brakes, chains, tires. Includes adjusments and lubrication| Cost: 45.0 EUR| Result: PASSED
+Name: Wheel truing| Description: Checks wheels for wobble and adjusts spoke tension.| Cost: 13.0 EUR| Result: PASSED
+Repair tasks:
+Name: Fix gear shifter, Description: Replace worn components and adjust gear indexing, Cost: 28.0 EUR, State: INCOMPLETE
+Name: Fix gear shifter, Description: Replace worn components and adjust gear indexing, Cost: 28.0 EUR, State: INCOMPLETE
+Total cost: 114.0 EUR
+
+----------------------
+Repair order updated:
+Repair Order ID: 0
+State: ACCEPTED
+Customer: 
+name: John, 
+email: john123@gmail.com, 
+phone number: 072123456, 
+bike details: brand: xTreme, model: W40, serial number: ABC123
+Problem: Faulty gear shifter
+Created: 2026-05-18T21:22:53.563762500
+Estimated completion: 2026-05-25T21:22:53.563762500
+Diagnostic report:
+Diagnostic report created: 2026-05-18T21:22:53.566761900
+Diagnostic Tasks: 
+Name: Basic Tune-up| Description: Inspection of gears, brakes, chains, tires. Includes adjusments and lubrication| Cost: 45.0 EUR| Result: PASSED
+Name: Wheel truing| Description: Checks wheels for wobble and adjusts spoke tension.| Cost: 13.0 EUR| Result: PASSED
+Repair tasks:
+Name: Fix gear shifter, Description: Replace worn components and adjust gear indexing, Cost: 28.0 EUR, State: INCOMPLETE
+Name: Fix gear shifter, Description: Replace worn components and adjust gear indexing, Cost: 28.0 EUR, State: INCOMPLETE
+Total cost: 114.0 EUR
+
+----------------------
+Repair order updated:
+Repair Order ID: 0
+State: ACCEPTED
+Customer: 
+name: John, 
+email: john123@gmail.com, 
+phone number: 072123456, 
+bike details: brand: xTreme, model: W40, serial number: ABC123
+Problem: Faulty gear shifter
+Created: 2026-05-18T21:22:53.563762500
+Estimated completion: 2026-05-25T21:22:53.563762500
+Diagnostic report:
+Diagnostic report created: 2026-05-18T21:22:53.566761900
+Diagnostic Tasks: 
+Name: Basic Tune-up| Description: Inspection of gears, brakes, chains, tires. Includes adjusments and lubrication| Cost: 45.0 EUR| Result: PASSED
+Name: Wheel truing| Description: Checks wheels for wobble and adjusts spoke tension.| Cost: 13.0 EUR| Result: PASSED
+Repair tasks:
+Name: Fix gear shifter, Description: Replace worn components and adjust gear indexing, Cost: 28.0 EUR, State: INCOMPLETE
+Name: Fix gear shifter, Description: Replace worn components and adjust gear indexing, Cost: 28.0 EUR, State: INCOMPLETE
+Total cost: 114.0 EUR
+
+----------------------
+Repair order updated:
+Repair Order ID: 0
+State: ACCEPTED
+Customer: 
+name: John, 
+email: john123@gmail.com, 
+phone number: 072123456, 
+bike details: brand: xTreme, model: W40, serial number: ABC123
+Problem: Faulty gear shifter
+Created: 2026-05-18T21:22:53.563762500
+Estimated completion: 2026-05-25T21:22:53.563762500
+Diagnostic report:
+Diagnostic report created: 2026-05-18T21:22:53.566761900
+Diagnostic Tasks: 
+Name: Basic Tune-up| Description: Inspection of gears, brakes, chains, tires. Includes adjusments and lubrication| Cost: 45.0 EUR| Result: PASSED
+Name: Wheel truing| Description: Checks wheels for wobble and adjusts spoke tension.| Cost: 13.0 EUR| Result: PASSED
+Repair tasks:
+Name: Fix gear shifter, Description: Replace worn components and adjust gear indexing, Cost: 28.0 EUR, State: INCOMPLETE
+Name: Fix gear shifter, Description: Replace worn components and adjust gear indexing, Cost: 28.0 EUR, State: INCOMPLETE
+Total cost: 114.0 EUR
+
+----------------------
+Repair order updated:
+Repair Order ID: 0
+State: READY_FOR_APPROVAL
+Customer: 
+name: John, 
+email: john123@gmail.com, 
+phone number: 072123456, 
+bike details: brand: xTreme, model: W40, serial number: ABC123
+Problem: Faulty gear shifter
+Created: 2026-05-18T21:22:53.563762500
+Estimated completion: 2026-05-25T21:22:53.563762500
+Diagnostic report:
+Diagnostic report created: 2026-05-18T21:22:53.566761900
+Diagnostic Tasks: 
+Name: Basic Tune-up| Description: Inspection of gears, brakes, chains, tires. Includes adjusments and lubrication| Cost: 45.0 EUR| Result: PASSED
+Name: Wheel truing| Description: Checks wheels for wobble and adjusts spoke tension.| Cost: 13.0 EUR| Result: PASSED
+Repair tasks:
+Name: Fix gear shifter, Description: Replace worn components and adjust gear indexing, Cost: 28.0 EUR, State: INCOMPLETE
+Name: Fix gear shifter, Description: Replace worn components and adjust gear indexing, Cost: 28.0 EUR, State: INCOMPLETE
+Name: Fix gear shifter, Description: Replace worn components and adjust gear indexing, Cost: 28.0 EUR, State: INCOMPLETE
+Total cost: 142.0 EUR
+
+----------------------
+Repair order updated:
+Repair Order ID: 0
+State: ACCEPTED
+Customer: 
+name: John, 
+email: john123@gmail.com, 
+phone number: 072123456, 
+bike details: brand: xTreme, model: W40, serial number: ABC123
+Problem: Faulty gear shifter
+Created: 2026-05-18T21:22:53.563762500
+Estimated completion: 2026-05-25T21:22:53.563762500
+Diagnostic report:
+Diagnostic report created: 2026-05-18T21:22:53.566761900
+Diagnostic Tasks: 
+Name: Basic Tune-up| Description: Inspection of gears, brakes, chains, tires. Includes adjusments and lubrication| Cost: 45.0 EUR| Result: PASSED
+Name: Wheel truing| Description: Checks wheels for wobble and adjusts spoke tension.| Cost: 13.0 EUR| Result: PASSED
+Repair tasks:
+Name: Fix gear shifter, Description: Replace worn components and adjust gear indexing, Cost: 28.0 EUR, State: INCOMPLETE
+Name: Fix gear shifter, Description: Replace worn components and adjust gear indexing, Cost: 28.0 EUR, State: INCOMPLETE
+Name: Fix gear shifter, Description: Replace worn components and adjust gear indexing, Cost: 28.0 EUR, State: INCOMPLETE
+Total cost: 142.0 EUR
+
+----------------------
+Repair order updated:
+Repair Order ID: 0
+State: NEWLY_CREATED
+Customer: 
+name: John, 
+email: john123@gmail.com, 
+phone number: 072123456, 
+bike details: brand: xTreme, model: W40, serial number: ABC123
+Problem: Faulty gear shifter
+Created: 2026-05-18T21:24:51.896489300
+Estimated completion: 2026-05-25T21:24:51.896489300
+Diagnostic report:
+Diagnostic report created: 2026-05-18T21:24:51.899487700
+Diagnostic Tasks: 
+Name: Basic Tune-up| Description: Inspection of gears, brakes, chains, tires. Includes adjusments and lubrication| Cost: 45.0 EUR| Result: PASSED
+Name: Wheel truing| Description: Checks wheels for wobble and adjusts spoke tension.| Cost: 13.0 EUR| Result: AWAITING_TECHNICIAN
+Repair tasks:
+Total cost: 
+
+----------------------
+Repair order updated:
+Repair Order ID: 0
+State: NEWLY_CREATED
+Customer: 
+name: John, 
+email: john123@gmail.com, 
+phone number: 072123456, 
+bike details: brand: xTreme, model: W40, serial number: ABC123
+Problem: Faulty gear shifter
+Created: 2026-05-18T21:24:51.896489300
+Estimated completion: 2026-05-25T21:24:51.896489300
+Diagnostic report:
+Diagnostic report created: 2026-05-18T21:24:51.899487700
+Diagnostic Tasks: 
+Name: Basic Tune-up| Description: Inspection of gears, brakes, chains, tires. Includes adjusments and lubrication| Cost: 45.0 EUR| Result: PASSED
+Name: Wheel truing| Description: Checks wheels for wobble and adjusts spoke tension.| Cost: 13.0 EUR| Result: PASSED
+Repair tasks:
+Total cost: 
+
+----------------------
+Repair order updated:
+Repair Order ID: 0
+State: READY_FOR_APPROVAL
+Customer: 
+name: John, 
+email: john123@gmail.com, 
+phone number: 072123456, 
+bike details: brand: xTreme, model: W40, serial number: ABC123
+Problem: Faulty gear shifter
+Created: 2026-05-18T21:24:51.896489300
+Estimated completion: 2026-05-25T21:24:51.896489300
+Diagnostic report:
+Diagnostic report created: 2026-05-18T21:24:51.899487700
+Diagnostic Tasks: 
+Name: Basic Tune-up| Description: Inspection of gears, brakes, chains, tires. Includes adjusments and lubrication| Cost: 45.0 EUR| Result: PASSED
+Name: Wheel truing| Description: Checks wheels for wobble and adjusts spoke tension.| Cost: 13.0 EUR| Result: PASSED
+Repair tasks:
+Name: Fix gear shifter, Description: Replace worn components and adjust gear indexing, Cost: 28.0 EUR, State: INCOMPLETE
+Total cost: 86.0 EUR
+
+----------------------
+Repair order updated:
+Repair Order ID: 0
+State: ACCEPTED
+Customer: 
+name: John, 
+email: john123@gmail.com, 
+phone number: 072123456, 
+bike details: brand: xTreme, model: W40, serial number: ABC123
+Problem: Faulty gear shifter
+Created: 2026-05-18T21:24:51.896489300
+Estimated completion: 2026-05-25T21:24:51.896489300
+Diagnostic report:
+Diagnostic report created: 2026-05-18T21:24:51.899487700
+Diagnostic Tasks: 
+Name: Basic Tune-up| Description: Inspection of gears, brakes, chains, tires. Includes adjusments and lubrication| Cost: 45.0 EUR| Result: PASSED
+Name: Wheel truing| Description: Checks wheels for wobble and adjusts spoke tension.| Cost: 13.0 EUR| Result: PASSED
+Repair tasks:
+Name: Fix gear shifter, Description: Replace worn components and adjust gear indexing, Cost: 28.0 EUR, State: INCOMPLETE
+Total cost: 86.0 EUR
+
+----------------------
+Repair order updated:
+Repair Order ID: 0
+State: ACCEPTED
+Customer: 
+name: John, 
+email: john123@gmail.com, 
+phone number: 072123456, 
+bike details: brand: xTreme, model: W40, serial number: ABC123
+Problem: Faulty gear shifter
+Created: 2026-05-18T21:24:51.896489300
+Estimated completion: 2026-05-25T21:24:51.896489300
+Diagnostic report:
+Diagnostic report created: 2026-05-18T21:24:51.899487700
+Diagnostic Tasks: 
+Name: Basic Tune-up| Description: Inspection of gears, brakes, chains, tires. Includes adjusments and lubrication| Cost: 45.0 EUR| Result: PASSED
+Name: Wheel truing| Description: Checks wheels for wobble and adjusts spoke tension.| Cost: 13.0 EUR| Result: PASSED
+Repair tasks:
+Name: Fix gear shifter, Description: Replace worn components and adjust gear indexing, Cost: 28.0 EUR, State: INCOMPLETE
+Total cost: 86.0 EUR
+
+----------------------
+Repair order updated:
+Repair Order ID: 0
+State: ACCEPTED
+Customer: 
+name: John, 
+email: john123@gmail.com, 
+phone number: 072123456, 
+bike details: brand: xTreme, model: W40, serial number: ABC123
+Problem: Faulty gear shifter
+Created: 2026-05-18T21:24:51.896489300
+Estimated completion: 2026-05-25T21:24:51.896489300
+Diagnostic report:
+Diagnostic report created: 2026-05-18T21:24:51.899487700
+Diagnostic Tasks: 
+Name: Basic Tune-up| Description: Inspection of gears, brakes, chains, tires. Includes adjusments and lubrication| Cost: 45.0 EUR| Result: PASSED
+Name: Wheel truing| Description: Checks wheels for wobble and adjusts spoke tension.| Cost: 13.0 EUR| Result: PASSED
+Repair tasks:
+Name: Fix gear shifter, Description: Replace worn components and adjust gear indexing, Cost: 28.0 EUR, State: INCOMPLETE
+Total cost: 86.0 EUR
+
+----------------------
+Repair order updated:
+Repair Order ID: 0
+State: READY_FOR_APPROVAL
+Customer: 
+name: John, 
+email: john123@gmail.com, 
+phone number: 072123456, 
+bike details: brand: xTreme, model: W40, serial number: ABC123
+Problem: Faulty gear shifter
+Created: 2026-05-18T21:24:51.896489300
+Estimated completion: 2026-05-25T21:24:51.896489300
+Diagnostic report:
+Diagnostic report created: 2026-05-18T21:24:51.899487700
+Diagnostic Tasks: 
+Name: Basic Tune-up| Description: Inspection of gears, brakes, chains, tires. Includes adjusments and lubrication| Cost: 45.0 EUR| Result: PASSED
+Name: Wheel truing| Description: Checks wheels for wobble and adjusts spoke tension.| Cost: 13.0 EUR| Result: PASSED
+Repair tasks:
+Name: Fix gear shifter, Description: Replace worn components and adjust gear indexing, Cost: 28.0 EUR, State: INCOMPLETE
+Name: Fix gear shifter, Description: Replace worn components and adjust gear indexing, Cost: 28.0 EUR, State: INCOMPLETE
+Total cost: 114.0 EUR
+
+----------------------
+Repair order updated:
+Repair Order ID: 0
+State: ACCEPTED
+Customer: 
+name: John, 
+email: john123@gmail.com, 
+phone number: 072123456, 
+bike details: brand: xTreme, model: W40, serial number: ABC123
+Problem: Faulty gear shifter
+Created: 2026-05-18T21:24:51.896489300
+Estimated completion: 2026-05-25T21:24:51.896489300
+Diagnostic report:
+Diagnostic report created: 2026-05-18T21:24:51.899487700
+Diagnostic Tasks: 
+Name: Basic Tune-up| Description: Inspection of gears, brakes, chains, tires. Includes adjusments and lubrication| Cost: 45.0 EUR| Result: PASSED
+Name: Wheel truing| Description: Checks wheels for wobble and adjusts spoke tension.| Cost: 13.0 EUR| Result: PASSED
+Repair tasks:
+Name: Fix gear shifter, Description: Replace worn components and adjust gear indexing, Cost: 28.0 EUR, State: INCOMPLETE
+Name: Fix gear shifter, Description: Replace worn components and adjust gear indexing, Cost: 28.0 EUR, State: INCOMPLETE
+Total cost: 114.0 EUR
+
+----------------------
+Repair order updated:
+Repair Order ID: 0
+State: ACCEPTED
+Customer: 
+name: John, 
+email: john123@gmail.com, 
+phone number: 072123456, 
+bike details: brand: xTreme, model: W40, serial number: ABC123
+Problem: Faulty gear shifter
+Created: 2026-05-18T21:24:51.896489300
+Estimated completion: 2026-05-25T21:24:51.896489300
+Diagnostic report:
+Diagnostic report created: 2026-05-18T21:24:51.899487700
+Diagnostic Tasks: 
+Name: Basic Tune-up| Description: Inspection of gears, brakes, chains, tires. Includes adjusments and lubrication| Cost: 45.0 EUR| Result: PASSED
+Name: Wheel truing| Description: Checks wheels for wobble and adjusts spoke tension.| Cost: 13.0 EUR| Result: PASSED
+Repair tasks:
+Name: Fix gear shifter, Description: Replace worn components and adjust gear indexing, Cost: 28.0 EUR, State: INCOMPLETE
+Name: Fix gear shifter, Description: Replace worn components and adjust gear indexing, Cost: 28.0 EUR, State: INCOMPLETE
+Total cost: 114.0 EUR
+
+----------------------
+Repair order updated:
+Repair Order ID: 0
+State: ACCEPTED
+Customer: 
+name: John, 
+email: john123@gmail.com, 
+phone number: 072123456, 
+bike details: brand: xTreme, model: W40, serial number: ABC123
+Problem: Faulty gear shifter
+Created: 2026-05-18T21:24:51.896489300
+Estimated completion: 2026-05-25T21:24:51.896489300
+Diagnostic report:
+Diagnostic report created: 2026-05-18T21:24:51.899487700
+Diagnostic Tasks: 
+Name: Basic Tune-up| Description: Inspection of gears, brakes, chains, tires. Includes adjusments and lubrication| Cost: 45.0 EUR| Result: PASSED
+Name: Wheel truing| Description: Checks wheels for wobble and adjusts spoke tension.| Cost: 13.0 EUR| Result: PASSED
+Repair tasks:
+Name: Fix gear shifter, Description: Replace worn components and adjust gear indexing, Cost: 28.0 EUR, State: INCOMPLETE
+Name: Fix gear shifter, Description: Replace worn components and adjust gear indexing, Cost: 28.0 EUR, State: INCOMPLETE
+Total cost: 114.0 EUR
+
+----------------------
+Repair order updated:
+Repair Order ID: 0
+State: READY_FOR_APPROVAL
+Customer: 
+name: John, 
+email: john123@gmail.com, 
+phone number: 072123456, 
+bike details: brand: xTreme, model: W40, serial number: ABC123
+Problem: Faulty gear shifter
+Created: 2026-05-18T21:24:51.896489300
+Estimated completion: 2026-05-25T21:24:51.896489300
+Diagnostic report:
+Diagnostic report created: 2026-05-18T21:24:51.899487700
+Diagnostic Tasks: 
+Name: Basic Tune-up| Description: Inspection of gears, brakes, chains, tires. Includes adjusments and lubrication| Cost: 45.0 EUR| Result: PASSED
+Name: Wheel truing| Description: Checks wheels for wobble and adjusts spoke tension.| Cost: 13.0 EUR| Result: PASSED
+Repair tasks:
+Name: Fix gear shifter, Description: Replace worn components and adjust gear indexing, Cost: 28.0 EUR, State: INCOMPLETE
+Name: Fix gear shifter, Description: Replace worn components and adjust gear indexing, Cost: 28.0 EUR, State: INCOMPLETE
+Name: Fix gear shifter, Description: Replace worn components and adjust gear indexing, Cost: 28.0 EUR, State: INCOMPLETE
+Total cost: 142.0 EUR
+
+----------------------
+Repair order updated:
+Repair Order ID: 0
+State: ACCEPTED
+Customer: 
+name: John, 
+email: john123@gmail.com, 
+phone number: 072123456, 
+bike details: brand: xTreme, model: W40, serial number: ABC123
+Problem: Faulty gear shifter
+Created: 2026-05-18T21:24:51.896489300
+Estimated completion: 2026-05-25T21:24:51.896489300
+Diagnostic report:
+Diagnostic report created: 2026-05-18T21:24:51.899487700
+Diagnostic Tasks: 
+Name: Basic Tune-up| Description: Inspection of gears, brakes, chains, tires. Includes adjusments and lubrication| Cost: 45.0 EUR| Result: PASSED
+Name: Wheel truing| Description: Checks wheels for wobble and adjusts spoke tension.| Cost: 13.0 EUR| Result: PASSED
+Repair tasks:
+Name: Fix gear shifter, Description: Replace worn components and adjust gear indexing, Cost: 28.0 EUR, State: INCOMPLETE
+Name: Fix gear shifter, Description: Replace worn components and adjust gear indexing, Cost: 28.0 EUR, State: INCOMPLETE
+Name: Fix gear shifter, Description: Replace worn components and adjust gear indexing, Cost: 28.0 EUR, State: INCOMPLETE
+Total cost: 142.0 EUR
+
+----------------------
+Repair order updated:
+Repair Order ID: 0
+State: NEWLY_CREATED
+Customer: 
+name: John, 
+email: john123@gmail.com, 
+phone number: 072123456, 
+bike details: brand: xTreme, model: W40, serial number: ABC123
+Problem: Faulty gear shifter
+Created: 2026-05-18T21:25:13.541315100
+Estimated completion: 2026-05-25T21:25:13.541315100
+Diagnostic report:
+Diagnostic report created: 2026-05-18T21:25:13.544311
+Diagnostic Tasks: 
+Name: Basic Tune-up| Description: Inspection of gears, brakes, chains, tires. Includes adjusments and lubrication| Cost: 45.0 EUR| Result: PASSED
+Name: Wheel truing| Description: Checks wheels for wobble and adjusts spoke tension.| Cost: 13.0 EUR| Result: AWAITING_TECHNICIAN
+Repair tasks:
+Total cost: 
+
+----------------------
+Repair order updated:
+Repair Order ID: 0
+State: NEWLY_CREATED
+Customer: 
+name: John, 
+email: john123@gmail.com, 
+phone number: 072123456, 
+bike details: brand: xTreme, model: W40, serial number: ABC123
+Problem: Faulty gear shifter
+Created: 2026-05-18T21:25:13.541315100
+Estimated completion: 2026-05-25T21:25:13.541315100
+Diagnostic report:
+Diagnostic report created: 2026-05-18T21:25:13.544311
+Diagnostic Tasks: 
+Name: Basic Tune-up| Description: Inspection of gears, brakes, chains, tires. Includes adjusments and lubrication| Cost: 45.0 EUR| Result: PASSED
+Name: Wheel truing| Description: Checks wheels for wobble and adjusts spoke tension.| Cost: 13.0 EUR| Result: PASSED
+Repair tasks:
+Total cost: 
+
+----------------------
+Repair order updated:
+Repair Order ID: 0
+State: READY_FOR_APPROVAL
+Customer: 
+name: John, 
+email: john123@gmail.com, 
+phone number: 072123456, 
+bike details: brand: xTreme, model: W40, serial number: ABC123
+Problem: Faulty gear shifter
+Created: 2026-05-18T21:25:13.541315100
+Estimated completion: 2026-05-25T21:25:13.541315100
+Diagnostic report:
+Diagnostic report created: 2026-05-18T21:25:13.544311
+Diagnostic Tasks: 
+Name: Basic Tune-up| Description: Inspection of gears, brakes, chains, tires. Includes adjusments and lubrication| Cost: 45.0 EUR| Result: PASSED
+Name: Wheel truing| Description: Checks wheels for wobble and adjusts spoke tension.| Cost: 13.0 EUR| Result: PASSED
+Repair tasks:
+Name: Fix gear shifter, Description: Replace worn components and adjust gear indexing, Cost: 28.0 EUR, State: INCOMPLETE
+Total cost: 86.0 EUR
+
+----------------------
+Repair order updated:
+Repair Order ID: 0
+State: ACCEPTED
+Customer: 
+name: John, 
+email: john123@gmail.com, 
+phone number: 072123456, 
+bike details: brand: xTreme, model: W40, serial number: ABC123
+Problem: Faulty gear shifter
+Created: 2026-05-18T21:25:13.541315100
+Estimated completion: 2026-05-25T21:25:13.541315100
+Diagnostic report:
+Diagnostic report created: 2026-05-18T21:25:13.544311
+Diagnostic Tasks: 
+Name: Basic Tune-up| Description: Inspection of gears, brakes, chains, tires. Includes adjusments and lubrication| Cost: 45.0 EUR| Result: PASSED
+Name: Wheel truing| Description: Checks wheels for wobble and adjusts spoke tension.| Cost: 13.0 EUR| Result: PASSED
+Repair tasks:
+Name: Fix gear shifter, Description: Replace worn components and adjust gear indexing, Cost: 28.0 EUR, State: INCOMPLETE
+Total cost: 86.0 EUR
+
+----------------------
+Repair order updated:
+Repair Order ID: 0
+State: NEWLY_CREATED
+Customer: 
+name: John, 
+email: john123@gmail.com, 
+phone number: 072123456, 
+bike details: brand: xTreme, model: W40, serial number: ABC123
+Problem: Faulty gear shifter
+Created: 2026-05-18T21:25:13.581629300
+Estimated completion: 2026-05-25T21:25:13.581629300
+Diagnostic report:
+Diagnostic report created: 2026-05-18T21:25:13.581629300
+Diagnostic Tasks: 
+Name: Basic Tune-up| Description: Inspection of gears, brakes, chains, tires. Includes adjusments and lubrication| Cost: 45.0 EUR| Result: PASSED
+Name: Wheel truing| Description: Checks wheels for wobble and adjusts spoke tension.| Cost: 13.0 EUR| Result: AWAITING_TECHNICIAN
+Repair tasks:
+Total cost: 
+
+----------------------
+Repair order updated:
+Repair Order ID: 0
+State: NEWLY_CREATED
+Customer: 
+name: John, 
+email: john123@gmail.com, 
+phone number: 072123456, 
+bike details: brand: xTreme, model: W40, serial number: ABC123
+Problem: Faulty gear shifter
+Created: 2026-05-18T21:25:13.581629300
+Estimated completion: 2026-05-25T21:25:13.581629300
+Diagnostic report:
+Diagnostic report created: 2026-05-18T21:25:13.581629300
+Diagnostic Tasks: 
+Name: Basic Tune-up| Description: Inspection of gears, brakes, chains, tires. Includes adjusments and lubrication| Cost: 45.0 EUR| Result: PASSED
+Name: Wheel truing| Description: Checks wheels for wobble and adjusts spoke tension.| Cost: 13.0 EUR| Result: PASSED
+Repair tasks:
+Total cost: 
+
+----------------------
+Repair order updated:
+Repair Order ID: 0
+State: READY_FOR_APPROVAL
+Customer: 
+name: John, 
+email: john123@gmail.com, 
+phone number: 072123456, 
+bike details: brand: xTreme, model: W40, serial number: ABC123
+Problem: Faulty gear shifter
+Created: 2026-05-18T21:25:13.581629300
+Estimated completion: 2026-05-25T21:25:13.581629300
+Diagnostic report:
+Diagnostic report created: 2026-05-18T21:25:13.581629300
+Diagnostic Tasks: 
+Name: Basic Tune-up| Description: Inspection of gears, brakes, chains, tires. Includes adjusments and lubrication| Cost: 45.0 EUR| Result: PASSED
+Name: Wheel truing| Description: Checks wheels for wobble and adjusts spoke tension.| Cost: 13.0 EUR| Result: PASSED
+Repair tasks:
+Name: Fix gear shifter, Description: Replace worn components and adjust gear indexing, Cost: 28.0 EUR, State: INCOMPLETE
+Total cost: 86.0 EUR
+
+----------------------
+Repair order updated:
+Repair Order ID: 0
+State: ACCEPTED
+Customer: 
+name: John, 
+email: john123@gmail.com, 
+phone number: 072123456, 
+bike details: brand: xTreme, model: W40, serial number: ABC123
+Problem: Faulty gear shifter
+Created: 2026-05-18T21:25:13.581629300
+Estimated completion: 2026-05-25T21:25:13.581629300
+Diagnostic report:
+Diagnostic report created: 2026-05-18T21:25:13.581629300
+Diagnostic Tasks: 
+Name: Basic Tune-up| Description: Inspection of gears, brakes, chains, tires. Includes adjusments and lubrication| Cost: 45.0 EUR| Result: PASSED
+Name: Wheel truing| Description: Checks wheels for wobble and adjusts spoke tension.| Cost: 13.0 EUR| Result: PASSED
+Repair tasks:
+Name: Fix gear shifter, Description: Replace worn components and adjust gear indexing, Cost: 28.0 EUR, State: INCOMPLETE
+Total cost: 86.0 EUR
+
+----------------------
+Repair order updated:
+Repair Order ID: 0
+State: NEWLY_CREATED
+Customer: 
+name: John, 
+email: john123@gmail.com, 
+phone number: 072123456, 
+bike details: brand: xTreme, model: W40, serial number: ABC123
+Problem: Faulty gear shifter
+Created: 2026-05-18T21:25:13.590623200
+Estimated completion: 2026-05-25T21:25:13.590623200
+Diagnostic report:
+Diagnostic report created: 2026-05-18T21:25:13.590623200
+Diagnostic Tasks: 
+Name: Basic Tune-up| Description: Inspection of gears, brakes, chains, tires. Includes adjusments and lubrication| Cost: 45.0 EUR| Result: PASSED
+Name: Wheel truing| Description: Checks wheels for wobble and adjusts spoke tension.| Cost: 13.0 EUR| Result: AWAITING_TECHNICIAN
+Repair tasks:
+Total cost: 
+
+----------------------
+Repair order updated:
+Repair Order ID: 0
+State: NEWLY_CREATED
+Customer: 
+name: John, 
+email: john123@gmail.com, 
+phone number: 072123456, 
+bike details: brand: xTreme, model: W40, serial number: ABC123
+Problem: Faulty gear shifter
+Created: 2026-05-18T21:25:13.590623200
+Estimated completion: 2026-05-25T21:25:13.590623200
+Diagnostic report:
+Diagnostic report created: 2026-05-18T21:25:13.590623200
+Diagnostic Tasks: 
+Name: Basic Tune-up| Description: Inspection of gears, brakes, chains, tires. Includes adjusments and lubrication| Cost: 45.0 EUR| Result: PASSED
+Name: Wheel truing| Description: Checks wheels for wobble and adjusts spoke tension.| Cost: 13.0 EUR| Result: PASSED
+Repair tasks:
+Total cost: 
+
+----------------------
+Repair order updated:
+Repair Order ID: 0
+State: READY_FOR_APPROVAL
+Customer: 
+name: John, 
+email: john123@gmail.com, 
+phone number: 072123456, 
+bike details: brand: xTreme, model: W40, serial number: ABC123
+Problem: Faulty gear shifter
+Created: 2026-05-18T21:25:13.590623200
+Estimated completion: 2026-05-25T21:25:13.590623200
+Diagnostic report:
+Diagnostic report created: 2026-05-18T21:25:13.590623200
+Diagnostic Tasks: 
+Name: Basic Tune-up| Description: Inspection of gears, brakes, chains, tires. Includes adjusments and lubrication| Cost: 45.0 EUR| Result: PASSED
+Name: Wheel truing| Description: Checks wheels for wobble and adjusts spoke tension.| Cost: 13.0 EUR| Result: PASSED
+Repair tasks:
+Name: Fix gear shifter, Description: Replace worn components and adjust gear indexing, Cost: 28.0 EUR, State: INCOMPLETE
+Total cost: 86.0 EUR
+
+----------------------
+Repair order updated:
+Repair Order ID: 0
+State: ACCEPTED
+Customer: 
+name: John, 
+email: john123@gmail.com, 
+phone number: 072123456, 
+bike details: brand: xTreme, model: W40, serial number: ABC123
+Problem: Faulty gear shifter
+Created: 2026-05-18T21:25:13.590623200
+Estimated completion: 2026-05-25T21:25:13.590623200
+Diagnostic report:
+Diagnostic report created: 2026-05-18T21:25:13.590623200
+Diagnostic Tasks: 
+Name: Basic Tune-up| Description: Inspection of gears, brakes, chains, tires. Includes adjusments and lubrication| Cost: 45.0 EUR| Result: PASSED
+Name: Wheel truing| Description: Checks wheels for wobble and adjusts spoke tension.| Cost: 13.0 EUR| Result: PASSED
+Repair tasks:
+Name: Fix gear shifter, Description: Replace worn components and adjust gear indexing, Cost: 28.0 EUR, State: INCOMPLETE
+Total cost: 86.0 EUR
+
+----------------------
+Repair order updated:
+Repair Order ID: 0
+State: NEWLY_CREATED
+Customer: 
+name: John, 
+email: john123@gmail.com, 
+phone number: 072123456, 
+bike details: brand: xTreme, model: W40, serial number: ABC123
+Problem: Faulty gear shifter
+Created: 2026-05-18T21:26:22.951037
+Estimated completion: 2026-05-25T21:26:22.951037
+Diagnostic report:
+Diagnostic report created: 2026-05-18T21:26:22.951037
+Diagnostic Tasks: 
+Name: Basic Tune-up| Description: Inspection of gears, brakes, chains, tires. Includes adjusments and lubrication| Cost: 45.0 EUR| Result: PASSED
+Name: Wheel truing| Description: Checks wheels for wobble and adjusts spoke tension.| Cost: 13.0 EUR| Result: AWAITING_TECHNICIAN
+Repair tasks:
+Total cost: 
+
+----------------------
+Repair order updated:
+Repair Order ID: 0
+State: NEWLY_CREATED
+Customer: 
+name: John, 
+email: john123@gmail.com, 
+phone number: 072123456, 
+bike details: brand: xTreme, model: W40, serial number: ABC123
+Problem: Faulty gear shifter
+Created: 2026-05-18T21:26:22.951037
+Estimated completion: 2026-05-25T21:26:22.951037
+Diagnostic report:
+Diagnostic report created: 2026-05-18T21:26:22.951037
+Diagnostic Tasks: 
+Name: Basic Tune-up| Description: Inspection of gears, brakes, chains, tires. Includes adjusments and lubrication| Cost: 45.0 EUR| Result: PASSED
+Name: Wheel truing| Description: Checks wheels for wobble and adjusts spoke tension.| Cost: 13.0 EUR| Result: PASSED
+Repair tasks:
+Total cost: 
+
+----------------------
+Repair order updated:
+Repair Order ID: 0
+State: READY_FOR_APPROVAL
+Customer: 
+name: John, 
+email: john123@gmail.com, 
+phone number: 072123456, 
+bike details: brand: xTreme, model: W40, serial number: ABC123
+Problem: Faulty gear shifter
+Created: 2026-05-18T21:26:22.951037
+Estimated completion: 2026-05-25T21:26:22.951037
+Diagnostic report:
+Diagnostic report created: 2026-05-18T21:26:22.951037
+Diagnostic Tasks: 
+Name: Basic Tune-up| Description: Inspection of gears, brakes, chains, tires. Includes adjusments and lubrication| Cost: 45.0 EUR| Result: PASSED
+Name: Wheel truing| Description: Checks wheels for wobble and adjusts spoke tension.| Cost: 13.0 EUR| Result: PASSED
+Repair tasks:
+Name: Fix gear shifter, Description: Replace worn components and adjust gear indexing, Cost: 28.0 EUR, State: INCOMPLETE
+Total cost: 86.0 EUR
+
+----------------------
+Repair order updated:
+Repair Order ID: 0
+State: ACCEPTED
+Customer: 
+name: John, 
+email: john123@gmail.com, 
+phone number: 072123456, 
+bike details: brand: xTreme, model: W40, serial number: ABC123
+Problem: Faulty gear shifter
+Created: 2026-05-18T21:26:22.951037
+Estimated completion: 2026-05-25T21:26:22.951037
+Diagnostic report:
+Diagnostic report created: 2026-05-18T21:26:22.951037
+Diagnostic Tasks: 
+Name: Basic Tune-up| Description: Inspection of gears, brakes, chains, tires. Includes adjusments and lubrication| Cost: 45.0 EUR| Result: PASSED
+Name: Wheel truing| Description: Checks wheels for wobble and adjusts spoke tension.| Cost: 13.0 EUR| Result: PASSED
+Repair tasks:
+Name: Fix gear shifter, Description: Replace worn components and adjust gear indexing, Cost: 28.0 EUR, State: INCOMPLETE
+Total cost: 86.0 EUR
+
+----------------------
+Repair order updated:
+Repair Order ID: 0
+State: NEWLY_CREATED
+Customer: 
+name: John, 
+email: john123@gmail.com, 
+phone number: 072123456, 
+bike details: brand: xTreme, model: W40, serial number: ABC123
+Problem: Faulty gear shifter
+Created: 2026-05-18T21:26:22.974042500
+Estimated completion: 2026-05-25T21:26:22.974042500
+Diagnostic report:
+Diagnostic report created: 2026-05-18T21:26:22.974042500
+Diagnostic Tasks: 
+Name: Basic Tune-up| Description: Inspection of gears, brakes, chains, tires. Includes adjusments and lubrication| Cost: 45.0 EUR| Result: PASSED
+Name: Wheel truing| Description: Checks wheels for wobble and adjusts spoke tension.| Cost: 13.0 EUR| Result: AWAITING_TECHNICIAN
+Repair tasks:
+Total cost: 
+
+----------------------
+Repair order updated:
+Repair Order ID: 0
+State: NEWLY_CREATED
+Customer: 
+name: John, 
+email: john123@gmail.com, 
+phone number: 072123456, 
+bike details: brand: xTreme, model: W40, serial number: ABC123
+Problem: Faulty gear shifter
+Created: 2026-05-18T21:26:22.974042500
+Estimated completion: 2026-05-25T21:26:22.974042500
+Diagnostic report:
+Diagnostic report created: 2026-05-18T21:26:22.974042500
+Diagnostic Tasks: 
+Name: Basic Tune-up| Description: Inspection of gears, brakes, chains, tires. Includes adjusments and lubrication| Cost: 45.0 EUR| Result: PASSED
+Name: Wheel truing| Description: Checks wheels for wobble and adjusts spoke tension.| Cost: 13.0 EUR| Result: PASSED
+Repair tasks:
+Total cost: 
+
+----------------------
+Repair order updated:
+Repair Order ID: 0
+State: READY_FOR_APPROVAL
+Customer: 
+name: John, 
+email: john123@gmail.com, 
+phone number: 072123456, 
+bike details: brand: xTreme, model: W40, serial number: ABC123
+Problem: Faulty gear shifter
+Created: 2026-05-18T21:26:22.974042500
+Estimated completion: 2026-05-25T21:26:22.974042500
+Diagnostic report:
+Diagnostic report created: 2026-05-18T21:26:22.974042500
+Diagnostic Tasks: 
+Name: Basic Tune-up| Description: Inspection of gears, brakes, chains, tires. Includes adjusments and lubrication| Cost: 45.0 EUR| Result: PASSED
+Name: Wheel truing| Description: Checks wheels for wobble and adjusts spoke tension.| Cost: 13.0 EUR| Result: PASSED
+Repair tasks:
+Name: Fix gear shifter, Description: Replace worn components and adjust gear indexing, Cost: 28.0 EUR, State: INCOMPLETE
+Total cost: 86.0 EUR
+
+----------------------
+Repair order updated:
+Repair Order ID: 0
+State: ACCEPTED
+Customer: 
+name: John, 
+email: john123@gmail.com, 
+phone number: 072123456, 
+bike details: brand: xTreme, model: W40, serial number: ABC123
+Problem: Faulty gear shifter
+Created: 2026-05-18T21:26:22.974042500
+Estimated completion: 2026-05-25T21:26:22.974042500
+Diagnostic report:
+Diagnostic report created: 2026-05-18T21:26:22.974042500
+Diagnostic Tasks: 
+Name: Basic Tune-up| Description: Inspection of gears, brakes, chains, tires. Includes adjusments and lubrication| Cost: 45.0 EUR| Result: PASSED
+Name: Wheel truing| Description: Checks wheels for wobble and adjusts spoke tension.| Cost: 13.0 EUR| Result: PASSED
+Repair tasks:
+Name: Fix gear shifter, Description: Replace worn components and adjust gear indexing, Cost: 28.0 EUR, State: INCOMPLETE
+Total cost: 86.0 EUR
+
+----------------------
+Repair order updated:
+Repair Order ID: 0
+State: NEWLY_CREATED
+Customer: 
+name: John, 
+email: john123@gmail.com, 
+phone number: 072123456, 
+bike details: brand: xTreme, model: W40, serial number: ABC123
+Problem: Faulty gear shifter
+Created: 2026-05-18T21:26:22.981038400
+Estimated completion: 2026-05-25T21:26:22.981038400
+Diagnostic report:
+Diagnostic report created: 2026-05-18T21:26:22.981038400
+Diagnostic Tasks: 
+Name: Basic Tune-up| Description: Inspection of gears, brakes, chains, tires. Includes adjusments and lubrication| Cost: 45.0 EUR| Result: PASSED
+Name: Wheel truing| Description: Checks wheels for wobble and adjusts spoke tension.| Cost: 13.0 EUR| Result: AWAITING_TECHNICIAN
+Repair tasks:
+Total cost: 
+
+----------------------
+Repair order updated:
+Repair Order ID: 0
+State: NEWLY_CREATED
+Customer: 
+name: John, 
+email: john123@gmail.com, 
+phone number: 072123456, 
+bike details: brand: xTreme, model: W40, serial number: ABC123
+Problem: Faulty gear shifter
+Created: 2026-05-18T21:26:22.981038400
+Estimated completion: 2026-05-25T21:26:22.981038400
+Diagnostic report:
+Diagnostic report created: 2026-05-18T21:26:22.981038400
+Diagnostic Tasks: 
+Name: Basic Tune-up| Description: Inspection of gears, brakes, chains, tires. Includes adjusments and lubrication| Cost: 45.0 EUR| Result: PASSED
+Name: Wheel truing| Description: Checks wheels for wobble and adjusts spoke tension.| Cost: 13.0 EUR| Result: PASSED
+Repair tasks:
+Total cost: 
+
+----------------------
+Repair order updated:
+Repair Order ID: 0
+State: READY_FOR_APPROVAL
+Customer: 
+name: John, 
+email: john123@gmail.com, 
+phone number: 072123456, 
+bike details: brand: xTreme, model: W40, serial number: ABC123
+Problem: Faulty gear shifter
+Created: 2026-05-18T21:26:22.981038400
+Estimated completion: 2026-05-25T21:26:22.981038400
+Diagnostic report:
+Diagnostic report created: 2026-05-18T21:26:22.981038400
+Diagnostic Tasks: 
+Name: Basic Tune-up| Description: Inspection of gears, brakes, chains, tires. Includes adjusments and lubrication| Cost: 45.0 EUR| Result: PASSED
+Name: Wheel truing| Description: Checks wheels for wobble and adjusts spoke tension.| Cost: 13.0 EUR| Result: PASSED
+Repair tasks:
+Name: Fix gear shifter, Description: Replace worn components and adjust gear indexing, Cost: 28.0 EUR, State: INCOMPLETE
+Total cost: 86.0 EUR
+
+----------------------
+Repair order updated:
+Repair Order ID: 0
+State: ACCEPTED
+Customer: 
+name: John, 
+email: john123@gmail.com, 
+phone number: 072123456, 
+bike details: brand: xTreme, model: W40, serial number: ABC123
+Problem: Faulty gear shifter
+Created: 2026-05-18T21:26:22.981038400
+Estimated completion: 2026-05-25T21:26:22.981038400
+Diagnostic report:
+Diagnostic report created: 2026-05-18T21:26:22.981038400
+Diagnostic Tasks: 
+Name: Basic Tune-up| Description: Inspection of gears, brakes, chains, tires. Includes adjusments and lubrication| Cost: 45.0 EUR| Result: PASSED
+Name: Wheel truing| Description: Checks wheels for wobble and adjusts spoke tension.| Cost: 13.0 EUR| Result: PASSED
+Repair tasks:
+Name: Fix gear shifter, Description: Replace worn components and adjust gear indexing, Cost: 28.0 EUR, State: INCOMPLETE
+Total cost: 86.0 EUR
+
+----------------------
+Repair order updated:
+Repair Order ID: 0
+State: NEWLY_CREATED
+Customer: 
+name: John, 
+email: john123@gmail.com, 
+phone number: 072123456, 
+bike details: brand: xTreme, model: W40, serial number: ABC123
+Problem: Faulty gear shifter
+Created: 2026-05-18T21:26:22.987041800
+Estimated completion: 2026-05-25T21:26:22.987041800
+Diagnostic report:
+Diagnostic report created: 2026-05-18T21:26:22.987041800
+Diagnostic Tasks: 
+Name: Basic Tune-up| Description: Inspection of gears, brakes, chains, tires. Includes adjusments and lubrication| Cost: 45.0 EUR| Result: PASSED
+Name: Wheel truing| Description: Checks wheels for wobble and adjusts spoke tension.| Cost: 13.0 EUR| Result: AWAITING_TECHNICIAN
+Repair tasks:
+Total cost: 
+
+----------------------
+Repair order updated:
+Repair Order ID: 0
+State: NEWLY_CREATED
+Customer: 
+name: John, 
+email: john123@gmail.com, 
+phone number: 072123456, 
+bike details: brand: xTreme, model: W40, serial number: ABC123
+Problem: Faulty gear shifter
+Created: 2026-05-18T21:26:22.987041800
+Estimated completion: 2026-05-25T21:26:22.987041800
+Diagnostic report:
+Diagnostic report created: 2026-05-18T21:26:22.987041800
+Diagnostic Tasks: 
+Name: Basic Tune-up| Description: Inspection of gears, brakes, chains, tires. Includes adjusments and lubrication| Cost: 45.0 EUR| Result: PASSED
+Name: Wheel truing| Description: Checks wheels for wobble and adjusts spoke tension.| Cost: 13.0 EUR| Result: PASSED
+Repair tasks:
+Total cost: 
+
+----------------------
+Repair order updated:
+Repair Order ID: 0
+State: READY_FOR_APPROVAL
+Customer: 
+name: John, 
+email: john123@gmail.com, 
+phone number: 072123456, 
+bike details: brand: xTreme, model: W40, serial number: ABC123
+Problem: Faulty gear shifter
+Created: 2026-05-18T21:26:22.987041800
+Estimated completion: 2026-05-25T21:26:22.987041800
+Diagnostic report:
+Diagnostic report created: 2026-05-18T21:26:22.987041800
+Diagnostic Tasks: 
+Name: Basic Tune-up| Description: Inspection of gears, brakes, chains, tires. Includes adjusments and lubrication| Cost: 45.0 EUR| Result: PASSED
+Name: Wheel truing| Description: Checks wheels for wobble and adjusts spoke tension.| Cost: 13.0 EUR| Result: PASSED
+Repair tasks:
+Name: Fix gear shifter, Description: Replace worn components and adjust gear indexing, Cost: 28.0 EUR, State: INCOMPLETE
+Total cost: 86.0 EUR
+
+----------------------
+Repair order updated:
+Repair Order ID: 0
+State: ACCEPTED
+Customer: 
+name: John, 
+email: john123@gmail.com, 
+phone number: 072123456, 
+bike details: brand: xTreme, model: W40, serial number: ABC123
+Problem: Faulty gear shifter
+Created: 2026-05-18T21:26:22.987041800
+Estimated completion: 2026-05-25T21:26:22.987041800
+Diagnostic report:
+Diagnostic report created: 2026-05-18T21:26:22.987041800
+Diagnostic Tasks: 
+Name: Basic Tune-up| Description: Inspection of gears, brakes, chains, tires. Includes adjusments and lubrication| Cost: 45.0 EUR| Result: PASSED
+Name: Wheel truing| Description: Checks wheels for wobble and adjusts spoke tension.| Cost: 13.0 EUR| Result: PASSED
+Repair tasks:
+Name: Fix gear shifter, Description: Replace worn components and adjust gear indexing, Cost: 28.0 EUR, State: INCOMPLETE
+Total cost: 86.0 EUR
+
+----------------------
+Repair order updated:
+Repair Order ID: 0
+State: NEWLY_CREATED
+Customer: 
+name: John, 
+email: john123@gmail.com, 
+phone number: 072123456, 
+bike details: brand: xTreme, model: W40, serial number: ABC123
+Problem: Faulty gear shifter
+Created: 2026-05-18T21:26:47.061235100
+Estimated completion: 2026-05-25T21:26:47.061235100
+Diagnostic report:
+Diagnostic report created: 2026-05-18T21:26:47.061235100
+Diagnostic Tasks: 
+Name: Basic Tune-up| Description: Inspection of gears, brakes, chains, tires. Includes adjusments and lubrication| Cost: 45.0 EUR| Result: PASSED
+Name: Wheel truing| Description: Checks wheels for wobble and adjusts spoke tension.| Cost: 13.0 EUR| Result: AWAITING_TECHNICIAN
+Repair tasks:
+Total cost: 
+
+----------------------
+Repair order updated:
+Repair Order ID: 0
+State: NEWLY_CREATED
+Customer: 
+name: John, 
+email: john123@gmail.com, 
+phone number: 072123456, 
+bike details: brand: xTreme, model: W40, serial number: ABC123
+Problem: Faulty gear shifter
+Created: 2026-05-18T21:26:47.061235100
+Estimated completion: 2026-05-25T21:26:47.061235100
+Diagnostic report:
+Diagnostic report created: 2026-05-18T21:26:47.061235100
+Diagnostic Tasks: 
+Name: Basic Tune-up| Description: Inspection of gears, brakes, chains, tires. Includes adjusments and lubrication| Cost: 45.0 EUR| Result: PASSED
+Name: Wheel truing| Description: Checks wheels for wobble and adjusts spoke tension.| Cost: 13.0 EUR| Result: PASSED
+Repair tasks:
+Total cost: 
+
+----------------------
+Repair order updated:
+Repair Order ID: 0
+State: READY_FOR_APPROVAL
+Customer: 
+name: John, 
+email: john123@gmail.com, 
+phone number: 072123456, 
+bike details: brand: xTreme, model: W40, serial number: ABC123
+Problem: Faulty gear shifter
+Created: 2026-05-18T21:26:47.061235100
+Estimated completion: 2026-05-25T21:26:47.061235100
+Diagnostic report:
+Diagnostic report created: 2026-05-18T21:26:47.061235100
+Diagnostic Tasks: 
+Name: Basic Tune-up| Description: Inspection of gears, brakes, chains, tires. Includes adjusments and lubrication| Cost: 45.0 EUR| Result: PASSED
+Name: Wheel truing| Description: Checks wheels for wobble and adjusts spoke tension.| Cost: 13.0 EUR| Result: PASSED
+Repair tasks:
+Name: Fix gear shifter, Description: Replace worn components and adjust gear indexing, Cost: 28.0 EUR, State: INCOMPLETE
+Total cost: 86.0 EUR
+
+----------------------
+Repair order updated:
+Repair Order ID: 0
+State: ACCEPTED
+Customer: 
+name: John, 
+email: john123@gmail.com, 
+phone number: 072123456, 
+bike details: brand: xTreme, model: W40, serial number: ABC123
+Problem: Faulty gear shifter
+Created: 2026-05-18T21:26:47.061235100
+Estimated completion: 2026-05-25T21:26:47.061235100
+Diagnostic report:
+Diagnostic report created: 2026-05-18T21:26:47.061235100
+Diagnostic Tasks: 
+Name: Basic Tune-up| Description: Inspection of gears, brakes, chains, tires. Includes adjusments and lubrication| Cost: 45.0 EUR| Result: PASSED
+Name: Wheel truing| Description: Checks wheels for wobble and adjusts spoke tension.| Cost: 13.0 EUR| Result: PASSED
+Repair tasks:
+Name: Fix gear shifter, Description: Replace worn components and adjust gear indexing, Cost: 28.0 EUR, State: INCOMPLETE
+Total cost: 86.0 EUR
+
+----------------------
+Repair order updated:
+Repair Order ID: 0
+State: NEWLY_CREATED
+Customer: 
+name: John, 
+email: john123@gmail.com, 
+phone number: 072123456, 
+bike details: brand: xTreme, model: W40, serial number: ABC123
+Problem: Faulty gear shifter
+Created: 2026-05-18T21:26:47.081228400
+Estimated completion: 2026-05-25T21:26:47.081228400
+Diagnostic report:
+Diagnostic report created: 2026-05-18T21:26:47.081228400
+Diagnostic Tasks: 
+Name: Basic Tune-up| Description: Inspection of gears, brakes, chains, tires. Includes adjusments and lubrication| Cost: 45.0 EUR| Result: PASSED
+Name: Wheel truing| Description: Checks wheels for wobble and adjusts spoke tension.| Cost: 13.0 EUR| Result: AWAITING_TECHNICIAN
+Repair tasks:
+Total cost: 
+
+----------------------
+Repair order updated:
+Repair Order ID: 0
+State: NEWLY_CREATED
+Customer: 
+name: John, 
+email: john123@gmail.com, 
+phone number: 072123456, 
+bike details: brand: xTreme, model: W40, serial number: ABC123
+Problem: Faulty gear shifter
+Created: 2026-05-18T21:26:47.081228400
+Estimated completion: 2026-05-25T21:26:47.081228400
+Diagnostic report:
+Diagnostic report created: 2026-05-18T21:26:47.081228400
+Diagnostic Tasks: 
+Name: Basic Tune-up| Description: Inspection of gears, brakes, chains, tires. Includes adjusments and lubrication| Cost: 45.0 EUR| Result: PASSED
+Name: Wheel truing| Description: Checks wheels for wobble and adjusts spoke tension.| Cost: 13.0 EUR| Result: PASSED
+Repair tasks:
+Total cost: 
+
+----------------------
+Repair order updated:
+Repair Order ID: 0
+State: READY_FOR_APPROVAL
+Customer: 
+name: John, 
+email: john123@gmail.com, 
+phone number: 072123456, 
+bike details: brand: xTreme, model: W40, serial number: ABC123
+Problem: Faulty gear shifter
+Created: 2026-05-18T21:26:47.081228400
+Estimated completion: 2026-05-25T21:26:47.081228400
+Diagnostic report:
+Diagnostic report created: 2026-05-18T21:26:47.081228400
+Diagnostic Tasks: 
+Name: Basic Tune-up| Description: Inspection of gears, brakes, chains, tires. Includes adjusments and lubrication| Cost: 45.0 EUR| Result: PASSED
+Name: Wheel truing| Description: Checks wheels for wobble and adjusts spoke tension.| Cost: 13.0 EUR| Result: PASSED
+Repair tasks:
+Name: Fix gear shifter, Description: Replace worn components and adjust gear indexing, Cost: 28.0 EUR, State: INCOMPLETE
+Total cost: 86.0 EUR
+
+----------------------
+Repair order updated:
+Repair Order ID: 0
+State: ACCEPTED
+Customer: 
+name: John, 
+email: john123@gmail.com, 
+phone number: 072123456, 
+bike details: brand: xTreme, model: W40, serial number: ABC123
+Problem: Faulty gear shifter
+Created: 2026-05-18T21:26:47.081228400
+Estimated completion: 2026-05-25T21:26:47.081228400
+Diagnostic report:
+Diagnostic report created: 2026-05-18T21:26:47.081228400
+Diagnostic Tasks: 
+Name: Basic Tune-up| Description: Inspection of gears, brakes, chains, tires. Includes adjusments and lubrication| Cost: 45.0 EUR| Result: PASSED
+Name: Wheel truing| Description: Checks wheels for wobble and adjusts spoke tension.| Cost: 13.0 EUR| Result: PASSED
+Repair tasks:
+Name: Fix gear shifter, Description: Replace worn components and adjust gear indexing, Cost: 28.0 EUR, State: INCOMPLETE
+Total cost: 86.0 EUR
+
+----------------------
+Repair order updated:
+Repair Order ID: 0
+State: NEWLY_CREATED
+Customer: 
+name: John, 
+email: john123@gmail.com, 
+phone number: 072123456, 
+bike details: brand: xTreme, model: W40, serial number: ABC123
+Problem: Faulty gear shifter
+Created: 2026-05-18T21:26:47.089227600
+Estimated completion: 2026-05-25T21:26:47.089227600
+Diagnostic report:
+Diagnostic report created: 2026-05-18T21:26:47.089227600
+Diagnostic Tasks: 
+Name: Basic Tune-up| Description: Inspection of gears, brakes, chains, tires. Includes adjusments and lubrication| Cost: 45.0 EUR| Result: PASSED
+Name: Wheel truing| Description: Checks wheels for wobble and adjusts spoke tension.| Cost: 13.0 EUR| Result: AWAITING_TECHNICIAN
+Repair tasks:
+Total cost: 
+
+----------------------
+Repair order updated:
+Repair Order ID: 0
+State: NEWLY_CREATED
+Customer: 
+name: John, 
+email: john123@gmail.com, 
+phone number: 072123456, 
+bike details: brand: xTreme, model: W40, serial number: ABC123
+Problem: Faulty gear shifter
+Created: 2026-05-18T21:26:47.089227600
+Estimated completion: 2026-05-25T21:26:47.089227600
+Diagnostic report:
+Diagnostic report created: 2026-05-18T21:26:47.089227600
+Diagnostic Tasks: 
+Name: Basic Tune-up| Description: Inspection of gears, brakes, chains, tires. Includes adjusments and lubrication| Cost: 45.0 EUR| Result: PASSED
+Name: Wheel truing| Description: Checks wheels for wobble and adjusts spoke tension.| Cost: 13.0 EUR| Result: PASSED
+Repair tasks:
+Total cost: 
+
+----------------------
+Repair order updated:
+Repair Order ID: 0
+State: READY_FOR_APPROVAL
+Customer: 
+name: John, 
+email: john123@gmail.com, 
+phone number: 072123456, 
+bike details: brand: xTreme, model: W40, serial number: ABC123
+Problem: Faulty gear shifter
+Created: 2026-05-18T21:26:47.089227600
+Estimated completion: 2026-05-25T21:26:47.089227600
+Diagnostic report:
+Diagnostic report created: 2026-05-18T21:26:47.089227600
+Diagnostic Tasks: 
+Name: Basic Tune-up| Description: Inspection of gears, brakes, chains, tires. Includes adjusments and lubrication| Cost: 45.0 EUR| Result: PASSED
+Name: Wheel truing| Description: Checks wheels for wobble and adjusts spoke tension.| Cost: 13.0 EUR| Result: PASSED
+Repair tasks:
+Name: Fix gear shifter, Description: Replace worn components and adjust gear indexing, Cost: 28.0 EUR, State: INCOMPLETE
+Total cost: 86.0 EUR
+
+----------------------
+Repair order updated:
+Repair Order ID: 0
+State: ACCEPTED
+Customer: 
+name: John, 
+email: john123@gmail.com, 
+phone number: 072123456, 
+bike details: brand: xTreme, model: W40, serial number: ABC123
+Problem: Faulty gear shifter
+Created: 2026-05-18T21:26:47.089227600
+Estimated completion: 2026-05-25T21:26:47.089227600
+Diagnostic report:
+Diagnostic report created: 2026-05-18T21:26:47.089227600
+Diagnostic Tasks: 
+Name: Basic Tune-up| Description: Inspection of gears, brakes, chains, tires. Includes adjusments and lubrication| Cost: 45.0 EUR| Result: PASSED
+Name: Wheel truing| Description: Checks wheels for wobble and adjusts spoke tension.| Cost: 13.0 EUR| Result: PASSED
+Repair tasks:
+Name: Fix gear shifter, Description: Replace worn components and adjust gear indexing, Cost: 28.0 EUR, State: INCOMPLETE
+Total cost: 86.0 EUR
+
+----------------------
+Repair order updated:
+Repair Order ID: 0
+State: NEWLY_CREATED
+Customer: 
+name: John, 
+email: john123@gmail.com, 
+phone number: 072123456, 
+bike details: brand: xTreme, model: W40, serial number: ABC123
+Problem: Faulty gear shifter
+Created: 2026-05-18T21:26:47.095233400
+Estimated completion: 2026-05-25T21:26:47.095233400
+Diagnostic report:
+Diagnostic report created: 2026-05-18T21:26:47.095233400
+Diagnostic Tasks: 
+Name: Basic Tune-up| Description: Inspection of gears, brakes, chains, tires. Includes adjusments and lubrication| Cost: 45.0 EUR| Result: PASSED
+Name: Wheel truing| Description: Checks wheels for wobble and adjusts spoke tension.| Cost: 13.0 EUR| Result: AWAITING_TECHNICIAN
+Repair tasks:
+Total cost: 
+
+----------------------
+Repair order updated:
+Repair Order ID: 0
+State: NEWLY_CREATED
+Customer: 
+name: John, 
+email: john123@gmail.com, 
+phone number: 072123456, 
+bike details: brand: xTreme, model: W40, serial number: ABC123
+Problem: Faulty gear shifter
+Created: 2026-05-18T21:26:47.095233400
+Estimated completion: 2026-05-25T21:26:47.095233400
+Diagnostic report:
+Diagnostic report created: 2026-05-18T21:26:47.095233400
+Diagnostic Tasks: 
+Name: Basic Tune-up| Description: Inspection of gears, brakes, chains, tires. Includes adjusments and lubrication| Cost: 45.0 EUR| Result: PASSED
+Name: Wheel truing| Description: Checks wheels for wobble and adjusts spoke tension.| Cost: 13.0 EUR| Result: PASSED
+Repair tasks:
+Total cost: 
+
+----------------------
+Repair order updated:
+Repair Order ID: 0
+State: READY_FOR_APPROVAL
+Customer: 
+name: John, 
+email: john123@gmail.com, 
+phone number: 072123456, 
+bike details: brand: xTreme, model: W40, serial number: ABC123
+Problem: Faulty gear shifter
+Created: 2026-05-18T21:26:47.095233400
+Estimated completion: 2026-05-25T21:26:47.095233400
+Diagnostic report:
+Diagnostic report created: 2026-05-18T21:26:47.095233400
+Diagnostic Tasks: 
+Name: Basic Tune-up| Description: Inspection of gears, brakes, chains, tires. Includes adjusments and lubrication| Cost: 45.0 EUR| Result: PASSED
+Name: Wheel truing| Description: Checks wheels for wobble and adjusts spoke tension.| Cost: 13.0 EUR| Result: PASSED
+Repair tasks:
+Name: Fix gear shifter, Description: Replace worn components and adjust gear indexing, Cost: 28.0 EUR, State: INCOMPLETE
+Total cost: 86.0 EUR
+
+----------------------
+Repair order updated:
+Repair Order ID: 0
+State: ACCEPTED
+Customer: 
+name: John, 
+email: john123@gmail.com, 
+phone number: 072123456, 
+bike details: brand: xTreme, model: W40, serial number: ABC123
+Problem: Faulty gear shifter
+Created: 2026-05-18T21:26:47.095233400
+Estimated completion: 2026-05-25T21:26:47.095233400
+Diagnostic report:
+Diagnostic report created: 2026-05-18T21:26:47.095233400
+Diagnostic Tasks: 
+Name: Basic Tune-up| Description: Inspection of gears, brakes, chains, tires. Includes adjusments and lubrication| Cost: 45.0 EUR| Result: PASSED
+Name: Wheel truing| Description: Checks wheels for wobble and adjusts spoke tension.| Cost: 13.0 EUR| Result: PASSED
+Repair tasks:
+Name: Fix gear shifter, Description: Replace worn components and adjust gear indexing, Cost: 28.0 EUR, State: INCOMPLETE
+Total cost: 86.0 EUR
+
+----------------------
+Repair order updated:
+Repair Order ID: 0
+State: NEWLY_CREATED
+Customer: 
+name: John, 
+email: john123@gmail.com, 
+phone number: 072123456, 
+bike details: brand: xTreme, model: W40, serial number: ABC123
+Problem: Faulty gear shifter
+Created: 2026-05-30T16:03:43.725417800
+Estimated completion: 2026-06-06T16:03:43.725417800
+Diagnostic report:
+Diagnostic report created: 2026-05-30T16:03:43.725417800
+Diagnostic Tasks: 
+Name: Basic Tune-up| Description: Inspection of gears, brakes, chains, tires. Includes adjusments and lubrication| Cost: 45.0 EUR| Result: PASSED
+Name: Wheel truing| Description: Checks wheels for wobble and adjusts spoke tension.| Cost: 13.0 EUR| Result: AWAITING_TECHNICIAN
+Repair tasks:
+Total cost: 
+
+----------------------
+Repair order updated:
+Repair Order ID: 0
+State: NEWLY_CREATED
+Customer: 
+name: John, 
+email: john123@gmail.com, 
+phone number: 072123456, 
+bike details: brand: xTreme, model: W40, serial number: ABC123
+Problem: Faulty gear shifter
+Created: 2026-05-30T16:03:43.725417800
+Estimated completion: 2026-06-06T16:03:43.725417800
+Diagnostic report:
+Diagnostic report created: 2026-05-30T16:03:43.725417800
+Diagnostic Tasks: 
+Name: Basic Tune-up| Description: Inspection of gears, brakes, chains, tires. Includes adjusments and lubrication| Cost: 45.0 EUR| Result: PASSED
+Name: Wheel truing| Description: Checks wheels for wobble and adjusts spoke tension.| Cost: 13.0 EUR| Result: PASSED
+Repair tasks:
+Total cost: 
+
+----------------------
+Repair order updated:
+Repair Order ID: 0
+State: READY_FOR_APPROVAL
+Customer: 
+name: John, 
+email: john123@gmail.com, 
+phone number: 072123456, 
+bike details: brand: xTreme, model: W40, serial number: ABC123
+Problem: Faulty gear shifter
+Created: 2026-05-30T16:03:43.725417800
+Estimated completion: 2026-06-06T16:03:43.725417800
+Diagnostic report:
+Diagnostic report created: 2026-05-30T16:03:43.725417800
+Diagnostic Tasks: 
+Name: Basic Tune-up| Description: Inspection of gears, brakes, chains, tires. Includes adjusments and lubrication| Cost: 45.0 EUR| Result: PASSED
+Name: Wheel truing| Description: Checks wheels for wobble and adjusts spoke tension.| Cost: 13.0 EUR| Result: PASSED
+Repair tasks:
+Name: Fix gear shifter, Description: Replace worn components and adjust gear indexing, Cost: 28.0 EUR, State: INCOMPLETE
+Total cost: 86.0 EUR
+
+----------------------
+Repair order updated:
+Repair Order ID: 0
+State: ACCEPTED
+Customer: 
+name: John, 
+email: john123@gmail.com, 
+phone number: 072123456, 
+bike details: brand: xTreme, model: W40, serial number: ABC123
+Problem: Faulty gear shifter
+Created: 2026-05-30T16:03:43.725417800
+Estimated completion: 2026-06-06T16:03:43.725417800
+Diagnostic report:
+Diagnostic report created: 2026-05-30T16:03:43.725417800
+Diagnostic Tasks: 
+Name: Basic Tune-up| Description: Inspection of gears, brakes, chains, tires. Includes adjusments and lubrication| Cost: 45.0 EUR| Result: PASSED
+Name: Wheel truing| Description: Checks wheels for wobble and adjusts spoke tension.| Cost: 13.0 EUR| Result: PASSED
+Repair tasks:
+Name: Fix gear shifter, Description: Replace worn components and adjust gear indexing, Cost: 28.0 EUR, State: INCOMPLETE
+Total cost: 86.0 EUR
+
+----------------------
+Repair order updated:
+Repair Order ID: 0
+State: NEWLY_CREATED
+Customer: 
+name: John, 
+email: john123@gmail.com, 
+phone number: 072123456, 
+bike details: brand: xTreme, model: W40, serial number: ABC123
+Problem: Faulty gear shifter
+Created: 2026-05-30T16:03:43.745421300
+Estimated completion: 2026-06-06T16:03:43.745421300
+Diagnostic report:
+Diagnostic report created: 2026-05-30T16:03:43.745421300
+Diagnostic Tasks: 
+Name: Basic Tune-up| Description: Inspection of gears, brakes, chains, tires. Includes adjusments and lubrication| Cost: 45.0 EUR| Result: PASSED
+Name: Wheel truing| Description: Checks wheels for wobble and adjusts spoke tension.| Cost: 13.0 EUR| Result: AWAITING_TECHNICIAN
+Repair tasks:
+Total cost: 
+
+----------------------
+Repair order updated:
+Repair Order ID: 0
+State: NEWLY_CREATED
+Customer: 
+name: John, 
+email: john123@gmail.com, 
+phone number: 072123456, 
+bike details: brand: xTreme, model: W40, serial number: ABC123
+Problem: Faulty gear shifter
+Created: 2026-05-30T16:03:43.745421300
+Estimated completion: 2026-06-06T16:03:43.745421300
+Diagnostic report:
+Diagnostic report created: 2026-05-30T16:03:43.745421300
+Diagnostic Tasks: 
+Name: Basic Tune-up| Description: Inspection of gears, brakes, chains, tires. Includes adjusments and lubrication| Cost: 45.0 EUR| Result: PASSED
+Name: Wheel truing| Description: Checks wheels for wobble and adjusts spoke tension.| Cost: 13.0 EUR| Result: PASSED
+Repair tasks:
+Total cost: 
+
+----------------------
+Repair order updated:
+Repair Order ID: 0
+State: READY_FOR_APPROVAL
+Customer: 
+name: John, 
+email: john123@gmail.com, 
+phone number: 072123456, 
+bike details: brand: xTreme, model: W40, serial number: ABC123
+Problem: Faulty gear shifter
+Created: 2026-05-30T16:03:43.745421300
+Estimated completion: 2026-06-06T16:03:43.745421300
+Diagnostic report:
+Diagnostic report created: 2026-05-30T16:03:43.745421300
+Diagnostic Tasks: 
+Name: Basic Tune-up| Description: Inspection of gears, brakes, chains, tires. Includes adjusments and lubrication| Cost: 45.0 EUR| Result: PASSED
+Name: Wheel truing| Description: Checks wheels for wobble and adjusts spoke tension.| Cost: 13.0 EUR| Result: PASSED
+Repair tasks:
+Name: Fix gear shifter, Description: Replace worn components and adjust gear indexing, Cost: 28.0 EUR, State: INCOMPLETE
+Total cost: 86.0 EUR
+
+----------------------
+Repair order updated:
+Repair Order ID: 0
+State: ACCEPTED
+Customer: 
+name: John, 
+email: john123@gmail.com, 
+phone number: 072123456, 
+bike details: brand: xTreme, model: W40, serial number: ABC123
+Problem: Faulty gear shifter
+Created: 2026-05-30T16:03:43.745421300
+Estimated completion: 2026-06-06T16:03:43.745421300
+Diagnostic report:
+Diagnostic report created: 2026-05-30T16:03:43.745421300
+Diagnostic Tasks: 
+Name: Basic Tune-up| Description: Inspection of gears, brakes, chains, tires. Includes adjusments and lubrication| Cost: 45.0 EUR| Result: PASSED
+Name: Wheel truing| Description: Checks wheels for wobble and adjusts spoke tension.| Cost: 13.0 EUR| Result: PASSED
+Repair tasks:
+Name: Fix gear shifter, Description: Replace worn components and adjust gear indexing, Cost: 28.0 EUR, State: INCOMPLETE
+Total cost: 86.0 EUR
+
+----------------------
+Repair order updated:
+Repair Order ID: 0
+State: NEWLY_CREATED
+Customer: 
+name: John, 
+email: john123@gmail.com, 
+phone number: 072123456, 
+bike details: brand: xTreme, model: W40, serial number: ABC123
+Problem: Faulty gear shifter
+Created: 2026-05-30T16:03:43.753445300
+Estimated completion: 2026-06-06T16:03:43.753445300
+Diagnostic report:
+Diagnostic report created: 2026-05-30T16:03:43.753445300
+Diagnostic Tasks: 
+Name: Basic Tune-up| Description: Inspection of gears, brakes, chains, tires. Includes adjusments and lubrication| Cost: 45.0 EUR| Result: PASSED
+Name: Wheel truing| Description: Checks wheels for wobble and adjusts spoke tension.| Cost: 13.0 EUR| Result: AWAITING_TECHNICIAN
+Repair tasks:
+Total cost: 
+
+----------------------
+Repair order updated:
+Repair Order ID: 0
+State: NEWLY_CREATED
+Customer: 
+name: John, 
+email: john123@gmail.com, 
+phone number: 072123456, 
+bike details: brand: xTreme, model: W40, serial number: ABC123
+Problem: Faulty gear shifter
+Created: 2026-05-30T16:03:43.753445300
+Estimated completion: 2026-06-06T16:03:43.753445300
+Diagnostic report:
+Diagnostic report created: 2026-05-30T16:03:43.753445300
+Diagnostic Tasks: 
+Name: Basic Tune-up| Description: Inspection of gears, brakes, chains, tires. Includes adjusments and lubrication| Cost: 45.0 EUR| Result: PASSED
+Name: Wheel truing| Description: Checks wheels for wobble and adjusts spoke tension.| Cost: 13.0 EUR| Result: PASSED
+Repair tasks:
+Total cost: 
+
+----------------------
+Repair order updated:
+Repair Order ID: 0
+State: READY_FOR_APPROVAL
+Customer: 
+name: John, 
+email: john123@gmail.com, 
+phone number: 072123456, 
+bike details: brand: xTreme, model: W40, serial number: ABC123
+Problem: Faulty gear shifter
+Created: 2026-05-30T16:03:43.753445300
+Estimated completion: 2026-06-06T16:03:43.753445300
+Diagnostic report:
+Diagnostic report created: 2026-05-30T16:03:43.753445300
+Diagnostic Tasks: 
+Name: Basic Tune-up| Description: Inspection of gears, brakes, chains, tires. Includes adjusments and lubrication| Cost: 45.0 EUR| Result: PASSED
+Name: Wheel truing| Description: Checks wheels for wobble and adjusts spoke tension.| Cost: 13.0 EUR| Result: PASSED
+Repair tasks:
+Name: Fix gear shifter, Description: Replace worn components and adjust gear indexing, Cost: 28.0 EUR, State: INCOMPLETE
+Total cost: 86.0 EUR
+
+----------------------
+Repair order updated:
+Repair Order ID: 0
+State: ACCEPTED
+Customer: 
+name: John, 
+email: john123@gmail.com, 
+phone number: 072123456, 
+bike details: brand: xTreme, model: W40, serial number: ABC123
+Problem: Faulty gear shifter
+Created: 2026-05-30T16:03:43.753445300
+Estimated completion: 2026-06-06T16:03:43.753445300
+Diagnostic report:
+Diagnostic report created: 2026-05-30T16:03:43.753445300
+Diagnostic Tasks: 
+Name: Basic Tune-up| Description: Inspection of gears, brakes, chains, tires. Includes adjusments and lubrication| Cost: 45.0 EUR| Result: PASSED
+Name: Wheel truing| Description: Checks wheels for wobble and adjusts spoke tension.| Cost: 13.0 EUR| Result: PASSED
+Repair tasks:
+Name: Fix gear shifter, Description: Replace worn components and adjust gear indexing, Cost: 28.0 EUR, State: INCOMPLETE
+Total cost: 86.0 EUR
+
+----------------------
+Repair order updated:
+Repair Order ID: 0
+State: NEWLY_CREATED
+Customer: 
+name: John, 
+email: john123@gmail.com, 
+phone number: 072123456, 
+bike details: brand: xTreme, model: W40, serial number: ABC123
+Problem: Faulty gear shifter
+Created: 2026-05-30T16:03:43.759438700
+Estimated completion: 2026-06-06T16:03:43.759438700
+Diagnostic report:
+Diagnostic report created: 2026-05-30T16:03:43.759438700
+Diagnostic Tasks: 
+Name: Basic Tune-up| Description: Inspection of gears, brakes, chains, tires. Includes adjusments and lubrication| Cost: 45.0 EUR| Result: PASSED
+Name: Wheel truing| Description: Checks wheels for wobble and adjusts spoke tension.| Cost: 13.0 EUR| Result: AWAITING_TECHNICIAN
+Repair tasks:
+Total cost: 
+
+----------------------
+Repair order updated:
+Repair Order ID: 0
+State: NEWLY_CREATED
+Customer: 
+name: John, 
+email: john123@gmail.com, 
+phone number: 072123456, 
+bike details: brand: xTreme, model: W40, serial number: ABC123
+Problem: Faulty gear shifter
+Created: 2026-05-30T16:03:43.759438700
+Estimated completion: 2026-06-06T16:03:43.759438700
+Diagnostic report:
+Diagnostic report created: 2026-05-30T16:03:43.759438700
+Diagnostic Tasks: 
+Name: Basic Tune-up| Description: Inspection of gears, brakes, chains, tires. Includes adjusments and lubrication| Cost: 45.0 EUR| Result: PASSED
+Name: Wheel truing| Description: Checks wheels for wobble and adjusts spoke tension.| Cost: 13.0 EUR| Result: PASSED
+Repair tasks:
+Total cost: 
+
+----------------------
+Repair order updated:
+Repair Order ID: 0
+State: READY_FOR_APPROVAL
+Customer: 
+name: John, 
+email: john123@gmail.com, 
+phone number: 072123456, 
+bike details: brand: xTreme, model: W40, serial number: ABC123
+Problem: Faulty gear shifter
+Created: 2026-05-30T16:03:43.759438700
+Estimated completion: 2026-06-06T16:03:43.759438700
+Diagnostic report:
+Diagnostic report created: 2026-05-30T16:03:43.759438700
+Diagnostic Tasks: 
+Name: Basic Tune-up| Description: Inspection of gears, brakes, chains, tires. Includes adjusments and lubrication| Cost: 45.0 EUR| Result: PASSED
+Name: Wheel truing| Description: Checks wheels for wobble and adjusts spoke tension.| Cost: 13.0 EUR| Result: PASSED
+Repair tasks:
+Name: Fix gear shifter, Description: Replace worn components and adjust gear indexing, Cost: 28.0 EUR, State: INCOMPLETE
+Total cost: 86.0 EUR
+
+----------------------
+Repair order updated:
+Repair Order ID: 0
+State: ACCEPTED
+Customer: 
+name: John, 
+email: john123@gmail.com, 
+phone number: 072123456, 
+bike details: brand: xTreme, model: W40, serial number: ABC123
+Problem: Faulty gear shifter
+Created: 2026-05-30T16:03:43.759438700
+Estimated completion: 2026-06-06T16:03:43.759438700
+Diagnostic report:
+Diagnostic report created: 2026-05-30T16:03:43.759438700
+Diagnostic Tasks: 
+Name: Basic Tune-up| Description: Inspection of gears, brakes, chains, tires. Includes adjusments and lubrication| Cost: 45.0 EUR| Result: PASSED
+Name: Wheel truing| Description: Checks wheels for wobble and adjusts spoke tension.| Cost: 13.0 EUR| Result: PASSED
+Repair tasks:
+Name: Fix gear shifter, Description: Replace worn components and adjust gear indexing, Cost: 28.0 EUR, State: INCOMPLETE
+Total cost: 86.0 EUR
+
+----------------------
+Repair order updated:
+Repair Order ID: 0
+State: NEWLY_CREATED
+Customer: 
+name: John, 
+email: john123@gmail.com, 
+phone number: 072123456, 
+bike details: brand: xTreme, model: W40, serial number: ABC123
+Problem: Faulty gear shifter
+Created: 2026-05-30T18:13:42.436072200
+Estimated completion: 2026-06-06T18:13:42.436072200
+Diagnostic report:
+Diagnostic report created: 2026-05-30T18:13:42.439077
+Diagnostic Tasks: 
+Name: Basic Tune-up| Description: Inspection of gears, brakes, chains, tires. Includes adjusments and lubrication| Cost: 45.0 EUR| Result: PASSED
+Name: Wheel truing| Description: Checks wheels for wobble and adjusts spoke tension.| Cost: 13.0 EUR| Result: AWAITING_TECHNICIAN
+Repair tasks:
+Total cost: 
+
+----------------------
+Repair order updated:
+Repair Order ID: 0
+State: NEWLY_CREATED
+Customer: 
+name: John, 
+email: john123@gmail.com, 
+phone number: 072123456, 
+bike details: brand: xTreme, model: W40, serial number: ABC123
+Problem: Faulty gear shifter
+Created: 2026-05-30T18:13:42.436072200
+Estimated completion: 2026-06-06T18:13:42.436072200
+Diagnostic report:
+Diagnostic report created: 2026-05-30T18:13:42.439077
+Diagnostic Tasks: 
+Name: Basic Tune-up| Description: Inspection of gears, brakes, chains, tires. Includes adjusments and lubrication| Cost: 45.0 EUR| Result: PASSED
+Name: Wheel truing| Description: Checks wheels for wobble and adjusts spoke tension.| Cost: 13.0 EUR| Result: PASSED
+Repair tasks:
+Total cost: 
+
+----------------------
+Repair order updated:
+Repair Order ID: 0
+State: READY_FOR_APPROVAL
+Customer: 
+name: John, 
+email: john123@gmail.com, 
+phone number: 072123456, 
+bike details: brand: xTreme, model: W40, serial number: ABC123
+Problem: Faulty gear shifter
+Created: 2026-05-30T18:13:42.436072200
+Estimated completion: 2026-06-06T18:13:42.436072200
+Diagnostic report:
+Diagnostic report created: 2026-05-30T18:13:42.439077
+Diagnostic Tasks: 
+Name: Basic Tune-up| Description: Inspection of gears, brakes, chains, tires. Includes adjusments and lubrication| Cost: 45.0 EUR| Result: PASSED
+Name: Wheel truing| Description: Checks wheels for wobble and adjusts spoke tension.| Cost: 13.0 EUR| Result: PASSED
+Repair tasks:
+Name: Fix gear shifter, Description: Replace worn components and adjust gear indexing, Cost: 28.0 EUR, State: INCOMPLETE
+Total cost: 86.0 EUR
+
+----------------------
+Repair order updated:
+Repair Order ID: 0
+State: ACCEPTED
+Customer: 
+name: John, 
+email: john123@gmail.com, 
+phone number: 072123456, 
+bike details: brand: xTreme, model: W40, serial number: ABC123
+Problem: Faulty gear shifter
+Created: 2026-05-30T18:13:42.436072200
+Estimated completion: 2026-06-06T18:13:42.436072200
+Diagnostic report:
+Diagnostic report created: 2026-05-30T18:13:42.439077
+Diagnostic Tasks: 
+Name: Basic Tune-up| Description: Inspection of gears, brakes, chains, tires. Includes adjusments and lubrication| Cost: 45.0 EUR| Result: PASSED
+Name: Wheel truing| Description: Checks wheels for wobble and adjusts spoke tension.| Cost: 13.0 EUR| Result: PASSED
+Repair tasks:
+Name: Fix gear shifter, Description: Replace worn components and adjust gear indexing, Cost: 28.0 EUR, State: INCOMPLETE
+Total cost: 86.0 EUR
+
+----------------------
